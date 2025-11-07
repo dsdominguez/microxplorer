@@ -1,5 +1,5 @@
 SDD = 57 ou 58.5 ou 59 cm
-SOD = 47.5 ou 49.0 ou 59.5 cm
+SOD = 47.5 ou 49.0 ou 49.5 cm
 400 prjs
 0.9 graus
 I = 50 microA
