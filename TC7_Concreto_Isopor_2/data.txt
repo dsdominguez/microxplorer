@@ -1,0 +1,7 @@
+CP 
+	21 mm de diametro 
+	49 mm de altura
+
+ODD 6,8 cm
+SDD 57,3 cm
+SOD 50.5 cm
