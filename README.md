@@ -71,106 +71,91 @@ Cada pasta `TCxx_*` contém dados brutos de aquisição. A estrutura interna tí
 - `data.txt` — parâmetros geométricos (SDD, SOD, ODD)
 - `python/` — notebooks de visualização (quando disponível)
 
-### TC01 — Caracol (set/2025)
+**Visão rápida dos grupos:**
 
-| Pasta | `TC01_Caracol_202509` |
-|---|---|
-| **Amostra** | Caracol |
-| **Projeções** | 5, 100 e 200 projeções |
-| **Geometria** | ODD 10 cm; SDD 52–54,6 cm |
-| **Extras** | `python/createVideo.ipynb` |
+| Grupo | TCs | Tema |
+|---|---|---|
+| A | TC01–TC03 | Experimentos iniciais (amostras diversas) |
+| B | TC04–TC05 | Disciplina de TC |
+| C | TC06, TC07, TC09 | Concreto com Isopor |
+| D | TC10–TC11 | Concreto com argila expandida |
+| E | TC12–TC13 | Concreto de referência |
+| — | TC08 | Calibração flat |
+| — | `ProcessSapinhosVitor/` | Pós-processamento (TC03) |
+Experimentos agrupados por finalidade e características similares. Pastas do mesmo grupo podem ser comparadas ou reutilizadas com a mesma pipeline de processamento.
 
-### TC02 — Cachimbo / Arqueometria (out/2025)
+---
 
-| Pasta | `TC02_Cachimbo_Arquiometria_20251013` |
-|---|---|
-| **Amostra** | Cachimbo (estudo arqueométrico) |
-| **Projeções** | 10 e 400 projeções |
-| **Geometria** | SDD 58,5–59 cm; SOD 49,0–49,5 cm |
-| **Extras** | `python/createVideo.ipynb`, `distancias.txt` |
+### Grupo A — Experimentos iniciais (amostras diversas)
 
-### TC03 — Sapinho (out/2025)
+> **Características em comum:** primeiros testes do sistema (set–out/2025); múltiplos conjuntos de projeções (5 a 400); notebooks `python/createVideo.ipynb` nos TC01–TC03; calibração em subpastas `dark/` e `flat/`.
 
-| Pasta | `TC03_Sapinho_20251028` |
-|---|---|
-| **Amostra** | Sapinho |
-| **Projeções** | 10 e 400 projeções |
-| **Extras** | `python/createVideo.ipynb`, filtros de flat em `flat__Filtering/` |
+| TC | Pasta | Amostra | Projeções | Destaques |
+|---|---|---|---|---|
+| **TC01** | `TC01_Caracol_202509` | Caracol | 5, 100 e 200 | ODD 10 cm; SDD 52–54,6 cm |
+| **TC02** | `TC02_Cachimbo_Arquiometria_20251013` | Cachimbo (arqueometria) | 10 e 400 | SDD 58,5–59 cm; SOD 49,0–49,5 cm; `distancias.txt` |
+| **TC03** | `TC03_Sapinho_20251028` | Sapinho | 10 e 400 | Filtros de flat em `flat__Filtering/`; ver também `ProcessSapinhosVitor/` |
 
-### TC04 — Disciplina TC: Phone/Ouvido (dez/2025)
+---
 
-| Pasta | `TC04_DisciplinaTC_PhoneOuvido_20251216` |
-|---|---|
-| **Amostra** | Celular / ouvido (experimento da disciplina) |
-| **Projeções** | 400 projeções (`PhoneOuvido400Prjs/`) |
-| **Calibração** | `darkflat/` |
+### Grupo B — Disciplina de TC (dez/2025)
 
-### TC05 — Disciplina TC: Abóbora (dez/2025)
+> **Características em comum:** experimentos da disciplina; aquisição padronizada com **400 projeções**; calibração centralizada em `darkflat/`; nomenclatura de pastas por amostra (`*400Prjs/`).
 
-| Pasta | `TC05_DisciplinaTC_Abobora_20251216` |
-|---|---|
-| **Amostra** | Abóbora (experimento da disciplina) |
-| **Projeções** | 12 e 400 projeções (`abobora12Prjs/`, `abobora400Prjs/`) |
-| **Calibração** | `darkflat/` |
+| TC | Pasta | Amostra | Projeções | Destaques |
+|---|---|---|---|---|
+| **TC04** | `TC04_DisciplinaTC_PhoneOuvido_20251216` | Celular / ouvido | 400 (`PhoneOuvido400Prjs/`) | — |
+| **TC05** | `TC05_DisciplinaTC_Abobora_20251216` | Abóbora | 12 e 400 (`abobora12Prjs/`, `abobora400Prjs/`) | — |
 
-### TC06 — Concreto com Isopor
+---
 
-| Pasta | `TC06_Concreto_Isopor` |
-|---|---|
-| **Amostra** | Concreto com agregado de Isopor |
-| **Geometria** | SDD 57,3 cm; SOD 37,0 cm |
+### Grupo C — Concreto com Isopor
 
-### TC07 — Concreto com Isopor (amostra 2)
+> **Características em comum:** amostras de concreto leve com agregado de Isopor; estudo de materiais de construção civil; geometria SDD ~57,3 cm (TC07 e TC09); **TC09 replica condições do TC07** (`readme.txt`).
 
-| Pasta | `TC07_Concreto_Isopor_2` |
-|---|---|
-| **Amostra** | CP — Ø 21 mm, altura 49 mm |
-| **Geometria** | ODD 6,8 cm; SDD 57,3 cm; SOD 50,5 cm |
+| TC | Pasta | Amostra | Geometria / observação |
+|---|---|---|---|
+| **TC06** | `TC06_Concreto_Isopor` | Concreto + Isopor | SDD 57,3 cm; SOD 37,0 cm |
+| **TC07** | `TC07_Concreto_Isopor_2` | CP — Ø 21 mm, 49 mm altura | ODD 6,8 cm; SDD 57,3 cm; SOD 50,5 cm |
+| **TC09** | `TC09_Concreto_Isopor_3` | Concreto + Isopor (amostra 2) | Condições similares ao **TC07** |
 
-### TC08 — Flat massivo
+---
 
-| Pasta | `TC08_FlatMassivo` |
-|---|---|
-| **Finalidade** | Calibração flat em campo amplo (~200 projeções) |
-| **Conteúdo** | Projeções, dark e flat de referência |
+### Grupo D — Concreto com Argila Expandida
 
-### TC09 — Concreto com Isopor (amostra 3)
+> **Características em comum:** par de amostras (**TC10** e **TC11**) da mesma composição (concreto com argila expandida); estrutura com subpasta `prjs/`; indicadas para comparação entre réplicas.
 
-| Pasta | `TC09_Concreto_Isopor_3` |
-|---|---|
-| **Amostra** | Concreto com Isopor — amostra 2 |
-| **Observação** | Condições similares ao TC07 (`readme.txt`) |
+| TC | Pasta | Amostra |
+|---|---|---|
+| **TC10** | `TC10_Concreto_Argila_Expandida_1` | Concreto com argila expandida |
+| **TC11** | `TC11_Concreto_Argila_Expandida_2` | Concreto com argila expandida (réplica) |
 
-### TC10 — Concreto com Argila Expandida (1)
+---
 
-| Pasta | `TC10_Concreto_Argila_Expandida_1` |
-|---|---|
-| **Amostra** | Concreto com argila expandida |
+### Grupo E — Concreto de referência
 
-### TC11 — Concreto com Argila Expandida (2)
+> **Características em comum:** par de amostras (**TC12** e **TC13**) de concreto de referência; úteis como baseline para comparar com os grupos C (Isopor) e D (argila expandida).
 
-| Pasta | `TC11_Concreto_Argila_Expandida_2` |
-|---|---|
-| **Amostra** | Concreto com argila expandida (segunda amostra) |
+| TC | Pasta | Amostra |
+|---|---|---|
+| **TC12** | `TC12_Concreto_Ref_1` | Concreto de referência |
+| **TC13** | `TC13_Concreto_Ref_2` | Concreto de referência (réplica) |
 
-### TC12 — Concreto de referência (1)
+---
 
-| Pasta | `TC12_Concreto_Ref_1` |
-|---|---|
-| **Amostra** | Concreto de referência |
+### Calibração
 
-### TC13 — Concreto de referência (2)
+| TC | Pasta | Finalidade |
+|---|---|---|
+| **TC08** | `TC08_FlatMassivo` | Calibração flat em campo amplo (~200 projeções); dark e flat de referência |
 
-| Pasta | `TC13_Concreto_Ref_2` |
-|---|---|
-| **Amostra** | Concreto de referência (segunda amostra) |
+---
 
-### ProcessSapinhosVitor
+### Pós-processamento
 
-| Pasta | `ProcessSapinhosVitor` |
-|---|---|
-| **Finalidade** | Pós-processamento dos dados do Sapinho (TC03) |
-| **Conteúdo** | `LoadSaveAs_mhd.ipynb` — exportação para formato MHD |
+| Pasta | Relacionado a | Conteúdo |
+|---|---|---|
+| `ProcessSapinhosVitor/` | **TC03** (Sapinho) | `LoadSaveAs_mhd.ipynb` — exportação para formato MHD |
 
 ---
 
