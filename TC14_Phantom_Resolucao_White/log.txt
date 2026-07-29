@@ -1,0 +1,3615 @@
+[2026/07/27 11:17:55]Entrou na thread secundaria
+[2026/07/27 11:18:56]Iniciando operacao testePhantomC.dat
+Parametros da Operacao:
+Modo de Aquisicao: Tomografia
+Mecanismo de Rotacao: Arduino
+Modo de Binning: Normal
+Modo de Ganho: High
+Tempo de Integracao (us): 1000000
+Tempo de Intervalo (ms): 2000
+Quantidade de Imagens: 400
+Prefixo: testePhantomC
+Diretorio: C:/Users/Administrador/Desktop/2025-06-09/demo-api-sdk/Demo/20260727_phantom_resolucao/teste400projs
+
+[2026/07/27 11:18:56] - Iniciando ciclo 1
+[2026/07/27 11:18:58] - testePhantomC1.dat capturado
+[2026/07/27 11:18:58][2026/07/27 11:18:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:18:59][2026/07/27 11:18:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:18:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:18:59] - Finalizando ciclo 1
+
+[2026/07/27 11:19:01] - Iniciando ciclo 2
+[2026/07/27 11:19:03] - testePhantomC2.dat capturado
+[2026/07/27 11:19:03][2026/07/27 11:19:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:04][2026/07/27 11:19:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:04] - Finalizando ciclo 2
+
+[2026/07/27 11:19:06] - Iniciando ciclo 3
+[2026/07/27 11:19:08] - testePhantomC3.dat capturado
+[2026/07/27 11:19:08][2026/07/27 11:19:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:09][2026/07/27 11:19:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:09] - Finalizando ciclo 3
+
+[2026/07/27 11:19:11] - Iniciando ciclo 4
+[2026/07/27 11:19:13] - testePhantomC4.dat capturado
+[2026/07/27 11:19:13][2026/07/27 11:19:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:14][2026/07/27 11:19:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:14] - Finalizando ciclo 4
+
+[2026/07/27 11:19:16] - Iniciando ciclo 5
+[2026/07/27 11:19:18] - testePhantomC5.dat capturado
+[2026/07/27 11:19:18][2026/07/27 11:19:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:19][2026/07/27 11:19:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:19] - Finalizando ciclo 5
+
+[2026/07/27 11:19:21] - Iniciando ciclo 6
+[2026/07/27 11:19:23] - testePhantomC6.dat capturado
+[2026/07/27 11:19:23][2026/07/27 11:19:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:24][2026/07/27 11:19:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:24] - Finalizando ciclo 6
+
+[2026/07/27 11:19:26] - Iniciando ciclo 7
+[2026/07/27 11:19:28] - testePhantomC7.dat capturado
+[2026/07/27 11:19:28][2026/07/27 11:19:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:29][2026/07/27 11:19:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:29] - Finalizando ciclo 7
+
+[2026/07/27 11:19:31] - Iniciando ciclo 8
+[2026/07/27 11:19:33] - testePhantomC8.dat capturado
+[2026/07/27 11:19:33][2026/07/27 11:19:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:34][2026/07/27 11:19:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:34] - Finalizando ciclo 8
+
+[2026/07/27 11:19:36] - Iniciando ciclo 9
+[2026/07/27 11:19:38] - testePhantomC9.dat capturado
+[2026/07/27 11:19:38][2026/07/27 11:19:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:39][2026/07/27 11:19:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:39] - Finalizando ciclo 9
+
+[2026/07/27 11:19:41] - Iniciando ciclo 10
+[2026/07/27 11:19:43] - testePhantomC10.dat capturado
+[2026/07/27 11:19:43][2026/07/27 11:19:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:44][2026/07/27 11:19:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:44] - Finalizando ciclo 10
+
+[2026/07/27 11:19:46] - Iniciando ciclo 11
+[2026/07/27 11:19:48] - testePhantomC11.dat capturado
+[2026/07/27 11:19:48][2026/07/27 11:19:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:49][2026/07/27 11:19:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:49] - Finalizando ciclo 11
+
+[2026/07/27 11:19:51] - Iniciando ciclo 12
+[2026/07/27 11:19:53] - testePhantomC12.dat capturado
+[2026/07/27 11:19:53][2026/07/27 11:19:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:54][2026/07/27 11:19:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:54] - Finalizando ciclo 12
+
+[2026/07/27 11:19:56] - Iniciando ciclo 13
+[2026/07/27 11:19:58] - testePhantomC13.dat capturado
+[2026/07/27 11:19:58][2026/07/27 11:19:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:19:59][2026/07/27 11:19:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:19:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:19:59] - Finalizando ciclo 13
+
+[2026/07/27 11:20:01] - Iniciando ciclo 14
+[2026/07/27 11:20:03] - testePhantomC14.dat capturado
+[2026/07/27 11:20:03][2026/07/27 11:20:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:04][2026/07/27 11:20:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:04] - Finalizando ciclo 14
+
+[2026/07/27 11:20:06] - Iniciando ciclo 15
+[2026/07/27 11:20:08] - testePhantomC15.dat capturado
+[2026/07/27 11:20:08][2026/07/27 11:20:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:09][2026/07/27 11:20:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:09] - Finalizando ciclo 15
+
+[2026/07/27 11:20:11] - Iniciando ciclo 16
+[2026/07/27 11:20:13] - testePhantomC16.dat capturado
+[2026/07/27 11:20:13][2026/07/27 11:20:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:14][2026/07/27 11:20:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:14] - Finalizando ciclo 16
+
+[2026/07/27 11:20:16] - Iniciando ciclo 17
+[2026/07/27 11:20:18] - testePhantomC17.dat capturado
+[2026/07/27 11:20:18][2026/07/27 11:20:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:19][2026/07/27 11:20:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:19] - Finalizando ciclo 17
+
+[2026/07/27 11:20:21] - Iniciando ciclo 18
+[2026/07/27 11:20:23] - testePhantomC18.dat capturado
+[2026/07/27 11:20:23][2026/07/27 11:20:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:24][2026/07/27 11:20:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:24] - Finalizando ciclo 18
+
+[2026/07/27 11:20:26] - Iniciando ciclo 19
+[2026/07/27 11:20:28] - testePhantomC19.dat capturado
+[2026/07/27 11:20:28][2026/07/27 11:20:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:29][2026/07/27 11:20:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:29] - Finalizando ciclo 19
+
+[2026/07/27 11:20:31] - Iniciando ciclo 20
+[2026/07/27 11:20:33] - testePhantomC20.dat capturado
+[2026/07/27 11:20:33][2026/07/27 11:20:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:34][2026/07/27 11:20:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:34] - Finalizando ciclo 20
+
+[2026/07/27 11:20:36] - Iniciando ciclo 21
+[2026/07/27 11:20:38] - testePhantomC21.dat capturado
+[2026/07/27 11:20:38][2026/07/27 11:20:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:39][2026/07/27 11:20:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:39] - Finalizando ciclo 21
+
+[2026/07/27 11:20:41] - Iniciando ciclo 22
+[2026/07/27 11:20:43] - testePhantomC22.dat capturado
+[2026/07/27 11:20:43][2026/07/27 11:20:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:44][2026/07/27 11:20:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:44] - Finalizando ciclo 22
+
+[2026/07/27 11:20:46] - Iniciando ciclo 23
+[2026/07/27 11:20:48] - testePhantomC23.dat capturado
+[2026/07/27 11:20:48][2026/07/27 11:20:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:49][2026/07/27 11:20:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:49] - Finalizando ciclo 23
+
+[2026/07/27 11:20:51] - Iniciando ciclo 24
+[2026/07/27 11:20:53] - testePhantomC24.dat capturado
+[2026/07/27 11:20:53][2026/07/27 11:20:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:54][2026/07/27 11:20:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:54] - Finalizando ciclo 24
+
+[2026/07/27 11:20:56] - Iniciando ciclo 25
+[2026/07/27 11:20:58] - testePhantomC25.dat capturado
+[2026/07/27 11:20:58][2026/07/27 11:20:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:20:59][2026/07/27 11:20:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:20:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:20:59] - Finalizando ciclo 25
+
+[2026/07/27 11:21:01] - Iniciando ciclo 26
+[2026/07/27 11:21:03] - testePhantomC26.dat capturado
+[2026/07/27 11:21:03][2026/07/27 11:21:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:04][2026/07/27 11:21:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:04] - Finalizando ciclo 26
+
+[2026/07/27 11:21:06] - Iniciando ciclo 27
+[2026/07/27 11:21:08] - testePhantomC27.dat capturado
+[2026/07/27 11:21:08][2026/07/27 11:21:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:09][2026/07/27 11:21:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:09] - Finalizando ciclo 27
+
+[2026/07/27 11:21:11] - Iniciando ciclo 28
+[2026/07/27 11:21:13] - testePhantomC28.dat capturado
+[2026/07/27 11:21:13][2026/07/27 11:21:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:14][2026/07/27 11:21:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:14] - Finalizando ciclo 28
+
+[2026/07/27 11:21:16] - Iniciando ciclo 29
+[2026/07/27 11:21:18] - testePhantomC29.dat capturado
+[2026/07/27 11:21:18][2026/07/27 11:21:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:19][2026/07/27 11:21:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:19] - Finalizando ciclo 29
+
+[2026/07/27 11:21:21] - Iniciando ciclo 30
+[2026/07/27 11:21:23] - testePhantomC30.dat capturado
+[2026/07/27 11:21:23][2026/07/27 11:21:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:24][2026/07/27 11:21:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:24] - Finalizando ciclo 30
+
+[2026/07/27 11:21:26] - Iniciando ciclo 31
+[2026/07/27 11:21:28] - testePhantomC31.dat capturado
+[2026/07/27 11:21:28][2026/07/27 11:21:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:29][2026/07/27 11:21:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:29] - Finalizando ciclo 31
+
+[2026/07/27 11:21:31] - Iniciando ciclo 32
+[2026/07/27 11:21:33] - testePhantomC32.dat capturado
+[2026/07/27 11:21:33][2026/07/27 11:21:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:34][2026/07/27 11:21:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:34] - Finalizando ciclo 32
+
+[2026/07/27 11:21:36] - Iniciando ciclo 33
+[2026/07/27 11:21:38] - testePhantomC33.dat capturado
+[2026/07/27 11:21:38][2026/07/27 11:21:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:39][2026/07/27 11:21:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:39] - Finalizando ciclo 33
+
+[2026/07/27 11:21:41] - Iniciando ciclo 34
+[2026/07/27 11:21:43] - testePhantomC34.dat capturado
+[2026/07/27 11:21:43][2026/07/27 11:21:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:44][2026/07/27 11:21:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:44] - Finalizando ciclo 34
+
+[2026/07/27 11:21:46] - Iniciando ciclo 35
+[2026/07/27 11:21:48] - testePhantomC35.dat capturado
+[2026/07/27 11:21:48][2026/07/27 11:21:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:49][2026/07/27 11:21:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:49] - Finalizando ciclo 35
+
+[2026/07/27 11:21:51] - Iniciando ciclo 36
+[2026/07/27 11:21:53] - testePhantomC36.dat capturado
+[2026/07/27 11:21:53][2026/07/27 11:21:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:54][2026/07/27 11:21:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:54] - Finalizando ciclo 36
+
+[2026/07/27 11:21:56] - Iniciando ciclo 37
+[2026/07/27 11:21:58] - testePhantomC37.dat capturado
+[2026/07/27 11:21:58][2026/07/27 11:21:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:21:59][2026/07/27 11:21:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:21:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:21:59] - Finalizando ciclo 37
+
+[2026/07/27 11:22:01] - Iniciando ciclo 38
+[2026/07/27 11:22:03] - testePhantomC38.dat capturado
+[2026/07/27 11:22:03][2026/07/27 11:22:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:04][2026/07/27 11:22:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:04] - Finalizando ciclo 38
+
+[2026/07/27 11:22:06] - Iniciando ciclo 39
+[2026/07/27 11:22:08] - testePhantomC39.dat capturado
+[2026/07/27 11:22:08][2026/07/27 11:22:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:09][2026/07/27 11:22:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:09] - Finalizando ciclo 39
+
+[2026/07/27 11:22:11] - Iniciando ciclo 40
+[2026/07/27 11:22:13] - testePhantomC40.dat capturado
+[2026/07/27 11:22:13][2026/07/27 11:22:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:14][2026/07/27 11:22:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:14] - Finalizando ciclo 40
+
+[2026/07/27 11:22:16] - Iniciando ciclo 41
+[2026/07/27 11:22:18] - testePhantomC41.dat capturado
+[2026/07/27 11:22:18][2026/07/27 11:22:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:19][2026/07/27 11:22:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:19] - Finalizando ciclo 41
+
+[2026/07/27 11:22:21] - Iniciando ciclo 42
+[2026/07/27 11:22:23] - testePhantomC42.dat capturado
+[2026/07/27 11:22:23][2026/07/27 11:22:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:24][2026/07/27 11:22:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:24] - Finalizando ciclo 42
+
+[2026/07/27 11:22:26] - Iniciando ciclo 43
+[2026/07/27 11:22:28] - testePhantomC43.dat capturado
+[2026/07/27 11:22:28][2026/07/27 11:22:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:29][2026/07/27 11:22:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:29] - Finalizando ciclo 43
+
+[2026/07/27 11:22:31] - Iniciando ciclo 44
+[2026/07/27 11:22:33] - testePhantomC44.dat capturado
+[2026/07/27 11:22:33][2026/07/27 11:22:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:34][2026/07/27 11:22:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:34] - Finalizando ciclo 44
+
+[2026/07/27 11:22:36] - Iniciando ciclo 45
+[2026/07/27 11:22:38] - testePhantomC45.dat capturado
+[2026/07/27 11:22:38][2026/07/27 11:22:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:39][2026/07/27 11:22:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:39] - Finalizando ciclo 45
+
+[2026/07/27 11:22:41] - Iniciando ciclo 46
+[2026/07/27 11:22:43] - testePhantomC46.dat capturado
+[2026/07/27 11:22:43][2026/07/27 11:22:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:44][2026/07/27 11:22:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:44] - Finalizando ciclo 46
+
+[2026/07/27 11:22:46] - Iniciando ciclo 47
+[2026/07/27 11:22:48] - testePhantomC47.dat capturado
+[2026/07/27 11:22:48][2026/07/27 11:22:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:49][2026/07/27 11:22:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:49] - Finalizando ciclo 47
+
+[2026/07/27 11:22:51] - Iniciando ciclo 48
+[2026/07/27 11:22:53] - testePhantomC48.dat capturado
+[2026/07/27 11:22:53][2026/07/27 11:22:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:54][2026/07/27 11:22:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:54] - Finalizando ciclo 48
+
+[2026/07/27 11:22:56] - Iniciando ciclo 49
+[2026/07/27 11:22:58] - testePhantomC49.dat capturado
+[2026/07/27 11:22:58][2026/07/27 11:22:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:22:59][2026/07/27 11:22:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:22:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:22:59] - Finalizando ciclo 49
+
+[2026/07/27 11:23:01] - Iniciando ciclo 50
+[2026/07/27 11:23:03] - testePhantomC50.dat capturado
+[2026/07/27 11:23:03][2026/07/27 11:23:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:04][2026/07/27 11:23:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:04] - Finalizando ciclo 50
+
+[2026/07/27 11:23:06] - Iniciando ciclo 51
+[2026/07/27 11:23:08] - testePhantomC51.dat capturado
+[2026/07/27 11:23:08][2026/07/27 11:23:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:09][2026/07/27 11:23:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:09] - Finalizando ciclo 51
+
+[2026/07/27 11:23:11] - Iniciando ciclo 52
+[2026/07/27 11:23:13] - testePhantomC52.dat capturado
+[2026/07/27 11:23:13][2026/07/27 11:23:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:14][2026/07/27 11:23:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:14] - Finalizando ciclo 52
+
+[2026/07/27 11:23:16] - Iniciando ciclo 53
+[2026/07/27 11:23:18] - testePhantomC53.dat capturado
+[2026/07/27 11:23:18][2026/07/27 11:23:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:19][2026/07/27 11:23:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:19] - Finalizando ciclo 53
+
+[2026/07/27 11:23:21] - Iniciando ciclo 54
+[2026/07/27 11:23:23] - testePhantomC54.dat capturado
+[2026/07/27 11:23:23][2026/07/27 11:23:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:24][2026/07/27 11:23:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:24] - Finalizando ciclo 54
+
+[2026/07/27 11:23:26] - Iniciando ciclo 55
+[2026/07/27 11:23:28] - testePhantomC55.dat capturado
+[2026/07/27 11:23:28][2026/07/27 11:23:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:29][2026/07/27 11:23:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:29] - Finalizando ciclo 55
+
+[2026/07/27 11:23:31] - Iniciando ciclo 56
+[2026/07/27 11:23:33] - testePhantomC56.dat capturado
+[2026/07/27 11:23:33][2026/07/27 11:23:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:34][2026/07/27 11:23:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:34] - Finalizando ciclo 56
+
+[2026/07/27 11:23:36] - Iniciando ciclo 57
+[2026/07/27 11:23:38] - testePhantomC57.dat capturado
+[2026/07/27 11:23:38][2026/07/27 11:23:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:39][2026/07/27 11:23:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:39] - Finalizando ciclo 57
+
+[2026/07/27 11:23:41] - Iniciando ciclo 58
+[2026/07/27 11:23:43] - testePhantomC58.dat capturado
+[2026/07/27 11:23:43][2026/07/27 11:23:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:44][2026/07/27 11:23:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:44] - Finalizando ciclo 58
+
+[2026/07/27 11:23:46] - Iniciando ciclo 59
+[2026/07/27 11:23:48] - testePhantomC59.dat capturado
+[2026/07/27 11:23:48][2026/07/27 11:23:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:49][2026/07/27 11:23:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:49] - Finalizando ciclo 59
+
+[2026/07/27 11:23:51] - Iniciando ciclo 60
+[2026/07/27 11:23:53] - testePhantomC60.dat capturado
+[2026/07/27 11:23:53][2026/07/27 11:23:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:54][2026/07/27 11:23:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:54] - Finalizando ciclo 60
+
+[2026/07/27 11:23:56] - Iniciando ciclo 61
+[2026/07/27 11:23:58] - testePhantomC61.dat capturado
+[2026/07/27 11:23:58][2026/07/27 11:23:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:23:59][2026/07/27 11:23:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:23:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:23:59] - Finalizando ciclo 61
+
+[2026/07/27 11:24:01] - Iniciando ciclo 62
+[2026/07/27 11:24:03] - testePhantomC62.dat capturado
+[2026/07/27 11:24:03][2026/07/27 11:24:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:04][2026/07/27 11:24:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:04] - Finalizando ciclo 62
+
+[2026/07/27 11:24:06] - Iniciando ciclo 63
+[2026/07/27 11:24:08] - testePhantomC63.dat capturado
+[2026/07/27 11:24:08][2026/07/27 11:24:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:09][2026/07/27 11:24:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:09] - Finalizando ciclo 63
+
+[2026/07/27 11:24:11] - Iniciando ciclo 64
+[2026/07/27 11:24:13] - testePhantomC64.dat capturado
+[2026/07/27 11:24:13][2026/07/27 11:24:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:14][2026/07/27 11:24:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:14] - Finalizando ciclo 64
+
+[2026/07/27 11:24:16] - Iniciando ciclo 65
+[2026/07/27 11:24:18] - testePhantomC65.dat capturado
+[2026/07/27 11:24:18][2026/07/27 11:24:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:19][2026/07/27 11:24:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:19] - Finalizando ciclo 65
+
+[2026/07/27 11:24:21] - Iniciando ciclo 66
+[2026/07/27 11:24:23] - testePhantomC66.dat capturado
+[2026/07/27 11:24:23][2026/07/27 11:24:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:24][2026/07/27 11:24:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:24] - Finalizando ciclo 66
+
+[2026/07/27 11:24:26] - Iniciando ciclo 67
+[2026/07/27 11:24:28] - testePhantomC67.dat capturado
+[2026/07/27 11:24:28][2026/07/27 11:24:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:29][2026/07/27 11:24:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:29] - Finalizando ciclo 67
+
+[2026/07/27 11:24:31] - Iniciando ciclo 68
+[2026/07/27 11:24:33] - testePhantomC68.dat capturado
+[2026/07/27 11:24:33][2026/07/27 11:24:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:34][2026/07/27 11:24:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:34] - Finalizando ciclo 68
+
+[2026/07/27 11:24:36] - Iniciando ciclo 69
+[2026/07/27 11:24:38] - testePhantomC69.dat capturado
+[2026/07/27 11:24:38][2026/07/27 11:24:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:39][2026/07/27 11:24:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:39] - Finalizando ciclo 69
+
+[2026/07/27 11:24:41] - Iniciando ciclo 70
+[2026/07/27 11:24:43] - testePhantomC70.dat capturado
+[2026/07/27 11:24:43][2026/07/27 11:24:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:44][2026/07/27 11:24:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:44] - Finalizando ciclo 70
+
+[2026/07/27 11:24:46] - Iniciando ciclo 71
+[2026/07/27 11:24:48] - testePhantomC71.dat capturado
+[2026/07/27 11:24:48][2026/07/27 11:24:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:49][2026/07/27 11:24:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:49] - Finalizando ciclo 71
+
+[2026/07/27 11:24:51] - Iniciando ciclo 72
+[2026/07/27 11:24:53] - testePhantomC72.dat capturado
+[2026/07/27 11:24:53][2026/07/27 11:24:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:54][2026/07/27 11:24:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:54] - Finalizando ciclo 72
+
+[2026/07/27 11:24:56] - Iniciando ciclo 73
+[2026/07/27 11:24:58] - testePhantomC73.dat capturado
+[2026/07/27 11:24:58][2026/07/27 11:24:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:24:59][2026/07/27 11:24:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:24:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:24:59] - Finalizando ciclo 73
+
+[2026/07/27 11:25:01] - Iniciando ciclo 74
+[2026/07/27 11:25:03] - testePhantomC74.dat capturado
+[2026/07/27 11:25:03][2026/07/27 11:25:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:04][2026/07/27 11:25:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:04] - Finalizando ciclo 74
+
+[2026/07/27 11:25:06] - Iniciando ciclo 75
+[2026/07/27 11:25:08] - testePhantomC75.dat capturado
+[2026/07/27 11:25:08][2026/07/27 11:25:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:09][2026/07/27 11:25:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:09] - Finalizando ciclo 75
+
+[2026/07/27 11:25:11] - Iniciando ciclo 76
+[2026/07/27 11:25:13] - testePhantomC76.dat capturado
+[2026/07/27 11:25:13][2026/07/27 11:25:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:14][2026/07/27 11:25:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:14] - Finalizando ciclo 76
+
+[2026/07/27 11:25:16] - Iniciando ciclo 77
+[2026/07/27 11:25:18] - testePhantomC77.dat capturado
+[2026/07/27 11:25:18][2026/07/27 11:25:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:19][2026/07/27 11:25:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:19] - Finalizando ciclo 77
+
+[2026/07/27 11:25:21] - Iniciando ciclo 78
+[2026/07/27 11:25:23] - testePhantomC78.dat capturado
+[2026/07/27 11:25:23][2026/07/27 11:25:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:24][2026/07/27 11:25:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:24] - Finalizando ciclo 78
+
+[2026/07/27 11:25:26] - Iniciando ciclo 79
+[2026/07/27 11:25:28] - testePhantomC79.dat capturado
+[2026/07/27 11:25:28][2026/07/27 11:25:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:29][2026/07/27 11:25:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:29] - Finalizando ciclo 79
+
+[2026/07/27 11:25:31] - Iniciando ciclo 80
+[2026/07/27 11:25:33] - testePhantomC80.dat capturado
+[2026/07/27 11:25:33][2026/07/27 11:25:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:34][2026/07/27 11:25:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:34] - Finalizando ciclo 80
+
+[2026/07/27 11:25:36] - Iniciando ciclo 81
+[2026/07/27 11:25:38] - testePhantomC81.dat capturado
+[2026/07/27 11:25:38][2026/07/27 11:25:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:39][2026/07/27 11:25:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:39] - Finalizando ciclo 81
+
+[2026/07/27 11:25:41] - Iniciando ciclo 82
+[2026/07/27 11:25:43] - testePhantomC82.dat capturado
+[2026/07/27 11:25:43][2026/07/27 11:25:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:44][2026/07/27 11:25:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:44] - Finalizando ciclo 82
+
+[2026/07/27 11:25:46] - Iniciando ciclo 83
+[2026/07/27 11:25:48] - testePhantomC83.dat capturado
+[2026/07/27 11:25:48][2026/07/27 11:25:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:49][2026/07/27 11:25:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:49] - Finalizando ciclo 83
+
+[2026/07/27 11:25:51] - Iniciando ciclo 84
+[2026/07/27 11:25:53] - testePhantomC84.dat capturado
+[2026/07/27 11:25:53][2026/07/27 11:25:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:54][2026/07/27 11:25:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:54] - Finalizando ciclo 84
+
+[2026/07/27 11:25:56] - Iniciando ciclo 85
+[2026/07/27 11:25:58] - testePhantomC85.dat capturado
+[2026/07/27 11:25:58][2026/07/27 11:25:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:25:59][2026/07/27 11:25:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:25:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:25:59] - Finalizando ciclo 85
+
+[2026/07/27 11:26:01] - Iniciando ciclo 86
+[2026/07/27 11:26:03] - testePhantomC86.dat capturado
+[2026/07/27 11:26:03][2026/07/27 11:26:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:04][2026/07/27 11:26:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:04] - Finalizando ciclo 86
+
+[2026/07/27 11:26:06] - Iniciando ciclo 87
+[2026/07/27 11:26:08] - testePhantomC87.dat capturado
+[2026/07/27 11:26:08][2026/07/27 11:26:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:09][2026/07/27 11:26:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:09] - Finalizando ciclo 87
+
+[2026/07/27 11:26:11] - Iniciando ciclo 88
+[2026/07/27 11:26:13] - testePhantomC88.dat capturado
+[2026/07/27 11:26:13][2026/07/27 11:26:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:14][2026/07/27 11:26:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:14] - Finalizando ciclo 88
+
+[2026/07/27 11:26:16] - Iniciando ciclo 89
+[2026/07/27 11:26:18] - testePhantomC89.dat capturado
+[2026/07/27 11:26:18][2026/07/27 11:26:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:19][2026/07/27 11:26:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:19] - Finalizando ciclo 89
+
+[2026/07/27 11:26:21] - Iniciando ciclo 90
+[2026/07/27 11:26:23] - testePhantomC90.dat capturado
+[2026/07/27 11:26:23][2026/07/27 11:26:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:24][2026/07/27 11:26:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:24] - Finalizando ciclo 90
+
+[2026/07/27 11:26:26] - Iniciando ciclo 91
+[2026/07/27 11:26:28] - testePhantomC91.dat capturado
+[2026/07/27 11:26:28][2026/07/27 11:26:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:29][2026/07/27 11:26:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:29] - Finalizando ciclo 91
+
+[2026/07/27 11:26:31] - Iniciando ciclo 92
+[2026/07/27 11:26:33] - testePhantomC92.dat capturado
+[2026/07/27 11:26:33][2026/07/27 11:26:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:34][2026/07/27 11:26:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:34] - Finalizando ciclo 92
+
+[2026/07/27 11:26:36] - Iniciando ciclo 93
+[2026/07/27 11:26:38] - testePhantomC93.dat capturado
+[2026/07/27 11:26:38][2026/07/27 11:26:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:39][2026/07/27 11:26:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:39] - Finalizando ciclo 93
+
+[2026/07/27 11:26:41] - Iniciando ciclo 94
+[2026/07/27 11:26:43] - testePhantomC94.dat capturado
+[2026/07/27 11:26:43][2026/07/27 11:26:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:44][2026/07/27 11:26:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:44] - Finalizando ciclo 94
+
+[2026/07/27 11:26:46] - Iniciando ciclo 95
+[2026/07/27 11:26:48] - testePhantomC95.dat capturado
+[2026/07/27 11:26:48][2026/07/27 11:26:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:49][2026/07/27 11:26:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:49] - Finalizando ciclo 95
+
+[2026/07/27 11:26:51] - Iniciando ciclo 96
+[2026/07/27 11:26:53] - testePhantomC96.dat capturado
+[2026/07/27 11:26:53][2026/07/27 11:26:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:54][2026/07/27 11:26:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:54] - Finalizando ciclo 96
+
+[2026/07/27 11:26:56] - Iniciando ciclo 97
+[2026/07/27 11:26:58] - testePhantomC97.dat capturado
+[2026/07/27 11:26:58][2026/07/27 11:26:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:26:59][2026/07/27 11:26:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:26:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:26:59] - Finalizando ciclo 97
+
+[2026/07/27 11:27:01] - Iniciando ciclo 98
+[2026/07/27 11:27:03] - testePhantomC98.dat capturado
+[2026/07/27 11:27:03][2026/07/27 11:27:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:04][2026/07/27 11:27:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:04] - Finalizando ciclo 98
+
+[2026/07/27 11:27:06] - Iniciando ciclo 99
+[2026/07/27 11:27:08] - testePhantomC99.dat capturado
+[2026/07/27 11:27:08][2026/07/27 11:27:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:09][2026/07/27 11:27:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:09] - Finalizando ciclo 99
+
+[2026/07/27 11:27:11] - Iniciando ciclo 100
+[2026/07/27 11:27:13] - testePhantomC100.dat capturado
+[2026/07/27 11:27:13][2026/07/27 11:27:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:14][2026/07/27 11:27:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:14] - Finalizando ciclo 100
+
+[2026/07/27 11:27:16] - Iniciando ciclo 101
+[2026/07/27 11:27:18] - testePhantomC101.dat capturado
+[2026/07/27 11:27:18][2026/07/27 11:27:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:19][2026/07/27 11:27:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:19] - Finalizando ciclo 101
+
+[2026/07/27 11:27:21] - Iniciando ciclo 102
+[2026/07/27 11:27:23] - testePhantomC102.dat capturado
+[2026/07/27 11:27:23][2026/07/27 11:27:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:24][2026/07/27 11:27:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:24] - Finalizando ciclo 102
+
+[2026/07/27 11:27:26] - Iniciando ciclo 103
+[2026/07/27 11:27:28] - testePhantomC103.dat capturado
+[2026/07/27 11:27:28][2026/07/27 11:27:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:29][2026/07/27 11:27:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:29] - Finalizando ciclo 103
+
+[2026/07/27 11:27:31] - Iniciando ciclo 104
+[2026/07/27 11:27:33] - testePhantomC104.dat capturado
+[2026/07/27 11:27:33][2026/07/27 11:27:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:34][2026/07/27 11:27:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:34] - Finalizando ciclo 104
+
+[2026/07/27 11:27:36] - Iniciando ciclo 105
+[2026/07/27 11:27:38] - testePhantomC105.dat capturado
+[2026/07/27 11:27:38][2026/07/27 11:27:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:39][2026/07/27 11:27:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:39] - Finalizando ciclo 105
+
+[2026/07/27 11:27:41] - Iniciando ciclo 106
+[2026/07/27 11:27:43] - testePhantomC106.dat capturado
+[2026/07/27 11:27:43][2026/07/27 11:27:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:44][2026/07/27 11:27:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:44] - Finalizando ciclo 106
+
+[2026/07/27 11:27:46] - Iniciando ciclo 107
+[2026/07/27 11:27:48] - testePhantomC107.dat capturado
+[2026/07/27 11:27:48][2026/07/27 11:27:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:49][2026/07/27 11:27:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:49] - Finalizando ciclo 107
+
+[2026/07/27 11:27:51] - Iniciando ciclo 108
+[2026/07/27 11:27:53] - testePhantomC108.dat capturado
+[2026/07/27 11:27:53][2026/07/27 11:27:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:54][2026/07/27 11:27:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:54] - Finalizando ciclo 108
+
+[2026/07/27 11:27:56] - Iniciando ciclo 109
+[2026/07/27 11:27:58] - testePhantomC109.dat capturado
+[2026/07/27 11:27:58][2026/07/27 11:27:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:27:59][2026/07/27 11:27:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:27:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:27:59] - Finalizando ciclo 109
+
+[2026/07/27 11:28:01] - Iniciando ciclo 110
+[2026/07/27 11:28:03] - testePhantomC110.dat capturado
+[2026/07/27 11:28:03][2026/07/27 11:28:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:04][2026/07/27 11:28:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:04] - Finalizando ciclo 110
+
+[2026/07/27 11:28:06] - Iniciando ciclo 111
+[2026/07/27 11:28:08] - testePhantomC111.dat capturado
+[2026/07/27 11:28:08][2026/07/27 11:28:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:09][2026/07/27 11:28:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:09] - Finalizando ciclo 111
+
+[2026/07/27 11:28:11] - Iniciando ciclo 112
+[2026/07/27 11:28:13] - testePhantomC112.dat capturado
+[2026/07/27 11:28:13][2026/07/27 11:28:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:14][2026/07/27 11:28:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:14] - Finalizando ciclo 112
+
+[2026/07/27 11:28:16] - Iniciando ciclo 113
+[2026/07/27 11:28:18] - testePhantomC113.dat capturado
+[2026/07/27 11:28:18][2026/07/27 11:28:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:19][2026/07/27 11:28:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:19] - Finalizando ciclo 113
+
+[2026/07/27 11:28:21] - Iniciando ciclo 114
+[2026/07/27 11:28:23] - testePhantomC114.dat capturado
+[2026/07/27 11:28:23][2026/07/27 11:28:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:24][2026/07/27 11:28:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:24] - Finalizando ciclo 114
+
+[2026/07/27 11:28:26] - Iniciando ciclo 115
+[2026/07/27 11:28:28] - testePhantomC115.dat capturado
+[2026/07/27 11:28:28][2026/07/27 11:28:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:29][2026/07/27 11:28:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:29] - Finalizando ciclo 115
+
+[2026/07/27 11:28:31] - Iniciando ciclo 116
+[2026/07/27 11:28:33] - testePhantomC116.dat capturado
+[2026/07/27 11:28:33][2026/07/27 11:28:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:34][2026/07/27 11:28:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:34] - Finalizando ciclo 116
+
+[2026/07/27 11:28:36] - Iniciando ciclo 117
+[2026/07/27 11:28:38] - testePhantomC117.dat capturado
+[2026/07/27 11:28:38][2026/07/27 11:28:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:39][2026/07/27 11:28:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:39] - Finalizando ciclo 117
+
+[2026/07/27 11:28:41] - Iniciando ciclo 118
+[2026/07/27 11:28:43] - testePhantomC118.dat capturado
+[2026/07/27 11:28:43][2026/07/27 11:28:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:44][2026/07/27 11:28:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:44] - Finalizando ciclo 118
+
+[2026/07/27 11:28:46] - Iniciando ciclo 119
+[2026/07/27 11:28:48] - testePhantomC119.dat capturado
+[2026/07/27 11:28:48][2026/07/27 11:28:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:49][2026/07/27 11:28:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:49] - Finalizando ciclo 119
+
+[2026/07/27 11:28:51] - Iniciando ciclo 120
+[2026/07/27 11:28:53] - testePhantomC120.dat capturado
+[2026/07/27 11:28:53][2026/07/27 11:28:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:54][2026/07/27 11:28:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:54] - Finalizando ciclo 120
+
+[2026/07/27 11:28:56] - Iniciando ciclo 121
+[2026/07/27 11:28:58] - testePhantomC121.dat capturado
+[2026/07/27 11:28:58][2026/07/27 11:28:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:28:59][2026/07/27 11:28:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:28:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:28:59] - Finalizando ciclo 121
+
+[2026/07/27 11:29:01] - Iniciando ciclo 122
+[2026/07/27 11:29:03] - testePhantomC122.dat capturado
+[2026/07/27 11:29:03][2026/07/27 11:29:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:04][2026/07/27 11:29:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:04] - Finalizando ciclo 122
+
+[2026/07/27 11:29:06] - Iniciando ciclo 123
+[2026/07/27 11:29:08] - testePhantomC123.dat capturado
+[2026/07/27 11:29:08][2026/07/27 11:29:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:09][2026/07/27 11:29:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:09] - Finalizando ciclo 123
+
+[2026/07/27 11:29:11] - Iniciando ciclo 124
+[2026/07/27 11:29:13] - testePhantomC124.dat capturado
+[2026/07/27 11:29:13][2026/07/27 11:29:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:14][2026/07/27 11:29:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:14] - Finalizando ciclo 124
+
+[2026/07/27 11:29:16] - Iniciando ciclo 125
+[2026/07/27 11:29:18] - testePhantomC125.dat capturado
+[2026/07/27 11:29:18][2026/07/27 11:29:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:19][2026/07/27 11:29:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:19] - Finalizando ciclo 125
+
+[2026/07/27 11:29:21] - Iniciando ciclo 126
+[2026/07/27 11:29:23] - testePhantomC126.dat capturado
+[2026/07/27 11:29:23][2026/07/27 11:29:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:24][2026/07/27 11:29:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:24] - Finalizando ciclo 126
+
+[2026/07/27 11:29:26] - Iniciando ciclo 127
+[2026/07/27 11:29:28] - testePhantomC127.dat capturado
+[2026/07/27 11:29:28][2026/07/27 11:29:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:29][2026/07/27 11:29:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:29] - Finalizando ciclo 127
+
+[2026/07/27 11:29:31] - Iniciando ciclo 128
+[2026/07/27 11:29:33] - testePhantomC128.dat capturado
+[2026/07/27 11:29:33][2026/07/27 11:29:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:34][2026/07/27 11:29:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:34] - Finalizando ciclo 128
+
+[2026/07/27 11:29:36] - Iniciando ciclo 129
+[2026/07/27 11:29:38] - testePhantomC129.dat capturado
+[2026/07/27 11:29:38][2026/07/27 11:29:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:39][2026/07/27 11:29:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:39] - Finalizando ciclo 129
+
+[2026/07/27 11:29:41] - Iniciando ciclo 130
+[2026/07/27 11:29:43] - testePhantomC130.dat capturado
+[2026/07/27 11:29:43][2026/07/27 11:29:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:44][2026/07/27 11:29:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:44] - Finalizando ciclo 130
+
+[2026/07/27 11:29:46] - Iniciando ciclo 131
+[2026/07/27 11:29:48] - testePhantomC131.dat capturado
+[2026/07/27 11:29:48][2026/07/27 11:29:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:49][2026/07/27 11:29:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:49] - Finalizando ciclo 131
+
+[2026/07/27 11:29:51] - Iniciando ciclo 132
+[2026/07/27 11:29:53] - testePhantomC132.dat capturado
+[2026/07/27 11:29:53][2026/07/27 11:29:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:54][2026/07/27 11:29:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:54] - Finalizando ciclo 132
+
+[2026/07/27 11:29:56] - Iniciando ciclo 133
+[2026/07/27 11:29:58] - testePhantomC133.dat capturado
+[2026/07/27 11:29:58][2026/07/27 11:29:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:29:59][2026/07/27 11:29:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:29:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:29:59] - Finalizando ciclo 133
+
+[2026/07/27 11:30:01] - Iniciando ciclo 134
+[2026/07/27 11:30:03] - testePhantomC134.dat capturado
+[2026/07/27 11:30:03][2026/07/27 11:30:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:04][2026/07/27 11:30:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:04] - Finalizando ciclo 134
+
+[2026/07/27 11:30:06] - Iniciando ciclo 135
+[2026/07/27 11:30:08] - testePhantomC135.dat capturado
+[2026/07/27 11:30:08][2026/07/27 11:30:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:09][2026/07/27 11:30:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:09] - Finalizando ciclo 135
+
+[2026/07/27 11:30:11] - Iniciando ciclo 136
+[2026/07/27 11:30:13] - testePhantomC136.dat capturado
+[2026/07/27 11:30:13][2026/07/27 11:30:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:14][2026/07/27 11:30:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:14] - Finalizando ciclo 136
+
+[2026/07/27 11:30:16] - Iniciando ciclo 137
+[2026/07/27 11:30:18] - testePhantomC137.dat capturado
+[2026/07/27 11:30:18][2026/07/27 11:30:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:19][2026/07/27 11:30:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:19] - Finalizando ciclo 137
+
+[2026/07/27 11:30:21] - Iniciando ciclo 138
+[2026/07/27 11:30:23] - testePhantomC138.dat capturado
+[2026/07/27 11:30:23][2026/07/27 11:30:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:24][2026/07/27 11:30:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:24] - Finalizando ciclo 138
+
+[2026/07/27 11:30:26] - Iniciando ciclo 139
+[2026/07/27 11:30:28] - testePhantomC139.dat capturado
+[2026/07/27 11:30:28][2026/07/27 11:30:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:29][2026/07/27 11:30:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:29] - Finalizando ciclo 139
+
+[2026/07/27 11:30:31] - Iniciando ciclo 140
+[2026/07/27 11:30:33] - testePhantomC140.dat capturado
+[2026/07/27 11:30:33][2026/07/27 11:30:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:34][2026/07/27 11:30:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:34] - Finalizando ciclo 140
+
+[2026/07/27 11:30:36] - Iniciando ciclo 141
+[2026/07/27 11:30:38] - testePhantomC141.dat capturado
+[2026/07/27 11:30:38][2026/07/27 11:30:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:39][2026/07/27 11:30:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:39] - Finalizando ciclo 141
+
+[2026/07/27 11:30:41] - Iniciando ciclo 142
+[2026/07/27 11:30:43] - testePhantomC142.dat capturado
+[2026/07/27 11:30:43][2026/07/27 11:30:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:44][2026/07/27 11:30:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:44] - Finalizando ciclo 142
+
+[2026/07/27 11:30:46] - Iniciando ciclo 143
+[2026/07/27 11:30:48] - testePhantomC143.dat capturado
+[2026/07/27 11:30:48][2026/07/27 11:30:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:49][2026/07/27 11:30:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:49] - Finalizando ciclo 143
+
+[2026/07/27 11:30:51] - Iniciando ciclo 144
+[2026/07/27 11:30:53] - testePhantomC144.dat capturado
+[2026/07/27 11:30:53][2026/07/27 11:30:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:54][2026/07/27 11:30:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:54] - Finalizando ciclo 144
+
+[2026/07/27 11:30:56] - Iniciando ciclo 145
+[2026/07/27 11:30:58] - testePhantomC145.dat capturado
+[2026/07/27 11:30:58][2026/07/27 11:30:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:30:59][2026/07/27 11:30:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:30:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:30:59] - Finalizando ciclo 145
+
+[2026/07/27 11:31:01] - Iniciando ciclo 146
+[2026/07/27 11:31:03] - testePhantomC146.dat capturado
+[2026/07/27 11:31:03][2026/07/27 11:31:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:04][2026/07/27 11:31:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:04] - Finalizando ciclo 146
+
+[2026/07/27 11:31:06] - Iniciando ciclo 147
+[2026/07/27 11:31:08] - testePhantomC147.dat capturado
+[2026/07/27 11:31:08][2026/07/27 11:31:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:09][2026/07/27 11:31:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:09] - Finalizando ciclo 147
+
+[2026/07/27 11:31:11] - Iniciando ciclo 148
+[2026/07/27 11:31:13] - testePhantomC148.dat capturado
+[2026/07/27 11:31:13][2026/07/27 11:31:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:14][2026/07/27 11:31:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:14] - Finalizando ciclo 148
+
+[2026/07/27 11:31:16] - Iniciando ciclo 149
+[2026/07/27 11:31:18] - testePhantomC149.dat capturado
+[2026/07/27 11:31:18][2026/07/27 11:31:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:19][2026/07/27 11:31:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:19] - Finalizando ciclo 149
+
+[2026/07/27 11:31:21] - Iniciando ciclo 150
+[2026/07/27 11:31:23] - testePhantomC150.dat capturado
+[2026/07/27 11:31:23][2026/07/27 11:31:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:24][2026/07/27 11:31:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:24] - Finalizando ciclo 150
+
+[2026/07/27 11:31:26] - Iniciando ciclo 151
+[2026/07/27 11:31:28] - testePhantomC151.dat capturado
+[2026/07/27 11:31:28][2026/07/27 11:31:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:29][2026/07/27 11:31:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:29] - Finalizando ciclo 151
+
+[2026/07/27 11:31:31] - Iniciando ciclo 152
+[2026/07/27 11:31:33] - testePhantomC152.dat capturado
+[2026/07/27 11:31:33][2026/07/27 11:31:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:34][2026/07/27 11:31:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:34] - Finalizando ciclo 152
+
+[2026/07/27 11:31:36] - Iniciando ciclo 153
+[2026/07/27 11:31:38] - testePhantomC153.dat capturado
+[2026/07/27 11:31:38][2026/07/27 11:31:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:39][2026/07/27 11:31:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:39] - Finalizando ciclo 153
+
+[2026/07/27 11:31:41] - Iniciando ciclo 154
+[2026/07/27 11:31:43] - testePhantomC154.dat capturado
+[2026/07/27 11:31:43][2026/07/27 11:31:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:44][2026/07/27 11:31:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:44] - Finalizando ciclo 154
+
+[2026/07/27 11:31:46] - Iniciando ciclo 155
+[2026/07/27 11:31:48] - testePhantomC155.dat capturado
+[2026/07/27 11:31:48][2026/07/27 11:31:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:49][2026/07/27 11:31:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:49] - Finalizando ciclo 155
+
+[2026/07/27 11:31:51] - Iniciando ciclo 156
+[2026/07/27 11:31:53] - testePhantomC156.dat capturado
+[2026/07/27 11:31:53][2026/07/27 11:31:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:54][2026/07/27 11:31:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:54] - Finalizando ciclo 156
+
+[2026/07/27 11:31:56] - Iniciando ciclo 157
+[2026/07/27 11:31:58] - testePhantomC157.dat capturado
+[2026/07/27 11:31:58][2026/07/27 11:31:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:31:59][2026/07/27 11:31:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:31:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:31:59] - Finalizando ciclo 157
+
+[2026/07/27 11:32:01] - Iniciando ciclo 158
+[2026/07/27 11:32:03] - testePhantomC158.dat capturado
+[2026/07/27 11:32:03][2026/07/27 11:32:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:04][2026/07/27 11:32:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:04] - Finalizando ciclo 158
+
+[2026/07/27 11:32:06] - Iniciando ciclo 159
+[2026/07/27 11:32:08] - testePhantomC159.dat capturado
+[2026/07/27 11:32:08][2026/07/27 11:32:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:09][2026/07/27 11:32:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:09] - Finalizando ciclo 159
+
+[2026/07/27 11:32:11] - Iniciando ciclo 160
+[2026/07/27 11:32:13] - testePhantomC160.dat capturado
+[2026/07/27 11:32:13][2026/07/27 11:32:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:14][2026/07/27 11:32:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:14] - Finalizando ciclo 160
+
+[2026/07/27 11:32:16] - Iniciando ciclo 161
+[2026/07/27 11:32:18] - testePhantomC161.dat capturado
+[2026/07/27 11:32:18][2026/07/27 11:32:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:19][2026/07/27 11:32:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:19] - Finalizando ciclo 161
+
+[2026/07/27 11:32:21] - Iniciando ciclo 162
+[2026/07/27 11:32:23] - testePhantomC162.dat capturado
+[2026/07/27 11:32:23][2026/07/27 11:32:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:24][2026/07/27 11:32:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:24] - Finalizando ciclo 162
+
+[2026/07/27 11:32:26] - Iniciando ciclo 163
+[2026/07/27 11:32:28] - testePhantomC163.dat capturado
+[2026/07/27 11:32:28][2026/07/27 11:32:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:29][2026/07/27 11:32:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:29] - Finalizando ciclo 163
+
+[2026/07/27 11:32:31] - Iniciando ciclo 164
+[2026/07/27 11:32:33] - testePhantomC164.dat capturado
+[2026/07/27 11:32:33][2026/07/27 11:32:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:34][2026/07/27 11:32:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:34] - Finalizando ciclo 164
+
+[2026/07/27 11:32:36] - Iniciando ciclo 165
+[2026/07/27 11:32:38] - testePhantomC165.dat capturado
+[2026/07/27 11:32:38][2026/07/27 11:32:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:39][2026/07/27 11:32:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:39] - Finalizando ciclo 165
+
+[2026/07/27 11:32:41] - Iniciando ciclo 166
+[2026/07/27 11:32:43] - testePhantomC166.dat capturado
+[2026/07/27 11:32:43][2026/07/27 11:32:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:44][2026/07/27 11:32:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:44] - Finalizando ciclo 166
+
+[2026/07/27 11:32:46] - Iniciando ciclo 167
+[2026/07/27 11:32:48] - testePhantomC167.dat capturado
+[2026/07/27 11:32:48][2026/07/27 11:32:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:49][2026/07/27 11:32:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:49] - Finalizando ciclo 167
+
+[2026/07/27 11:32:51] - Iniciando ciclo 168
+[2026/07/27 11:32:53] - testePhantomC168.dat capturado
+[2026/07/27 11:32:53][2026/07/27 11:32:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:54][2026/07/27 11:32:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:54] - Finalizando ciclo 168
+
+[2026/07/27 11:32:56] - Iniciando ciclo 169
+[2026/07/27 11:32:58] - testePhantomC169.dat capturado
+[2026/07/27 11:32:58][2026/07/27 11:32:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:32:59][2026/07/27 11:32:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:32:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:32:59] - Finalizando ciclo 169
+
+[2026/07/27 11:33:01] - Iniciando ciclo 170
+[2026/07/27 11:33:03] - testePhantomC170.dat capturado
+[2026/07/27 11:33:03][2026/07/27 11:33:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:04][2026/07/27 11:33:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:04] - Finalizando ciclo 170
+
+[2026/07/27 11:33:06] - Iniciando ciclo 171
+[2026/07/27 11:33:08] - testePhantomC171.dat capturado
+[2026/07/27 11:33:08][2026/07/27 11:33:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:09][2026/07/27 11:33:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:09] - Finalizando ciclo 171
+
+[2026/07/27 11:33:11] - Iniciando ciclo 172
+[2026/07/27 11:33:13] - testePhantomC172.dat capturado
+[2026/07/27 11:33:13][2026/07/27 11:33:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:14][2026/07/27 11:33:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:14] - Finalizando ciclo 172
+
+[2026/07/27 11:33:16] - Iniciando ciclo 173
+[2026/07/27 11:33:18] - testePhantomC173.dat capturado
+[2026/07/27 11:33:18][2026/07/27 11:33:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:19][2026/07/27 11:33:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:19] - Finalizando ciclo 173
+
+[2026/07/27 11:33:21] - Iniciando ciclo 174
+[2026/07/27 11:33:23] - testePhantomC174.dat capturado
+[2026/07/27 11:33:23][2026/07/27 11:33:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:24][2026/07/27 11:33:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:24] - Finalizando ciclo 174
+
+[2026/07/27 11:33:26] - Iniciando ciclo 175
+[2026/07/27 11:33:28] - testePhantomC175.dat capturado
+[2026/07/27 11:33:28][2026/07/27 11:33:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:29][2026/07/27 11:33:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:29] - Finalizando ciclo 175
+
+[2026/07/27 11:33:31] - Iniciando ciclo 176
+[2026/07/27 11:33:33] - testePhantomC176.dat capturado
+[2026/07/27 11:33:33][2026/07/27 11:33:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:34][2026/07/27 11:33:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:34] - Finalizando ciclo 176
+
+[2026/07/27 11:33:36] - Iniciando ciclo 177
+[2026/07/27 11:33:38] - testePhantomC177.dat capturado
+[2026/07/27 11:33:38][2026/07/27 11:33:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:39][2026/07/27 11:33:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:39] - Finalizando ciclo 177
+
+[2026/07/27 11:33:41] - Iniciando ciclo 178
+[2026/07/27 11:33:43] - testePhantomC178.dat capturado
+[2026/07/27 11:33:43][2026/07/27 11:33:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:44][2026/07/27 11:33:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:44] - Finalizando ciclo 178
+
+[2026/07/27 11:33:46] - Iniciando ciclo 179
+[2026/07/27 11:33:48] - testePhantomC179.dat capturado
+[2026/07/27 11:33:48][2026/07/27 11:33:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:49][2026/07/27 11:33:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:49] - Finalizando ciclo 179
+
+[2026/07/27 11:33:51] - Iniciando ciclo 180
+[2026/07/27 11:33:53] - testePhantomC180.dat capturado
+[2026/07/27 11:33:53][2026/07/27 11:33:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:54][2026/07/27 11:33:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:54] - Finalizando ciclo 180
+
+[2026/07/27 11:33:56] - Iniciando ciclo 181
+[2026/07/27 11:33:58] - testePhantomC181.dat capturado
+[2026/07/27 11:33:58][2026/07/27 11:33:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:33:59][2026/07/27 11:33:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:33:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:33:59] - Finalizando ciclo 181
+
+[2026/07/27 11:34:01] - Iniciando ciclo 182
+[2026/07/27 11:34:03] - testePhantomC182.dat capturado
+[2026/07/27 11:34:03][2026/07/27 11:34:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:04][2026/07/27 11:34:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:04] - Finalizando ciclo 182
+
+[2026/07/27 11:34:06] - Iniciando ciclo 183
+[2026/07/27 11:34:08] - testePhantomC183.dat capturado
+[2026/07/27 11:34:08][2026/07/27 11:34:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:09][2026/07/27 11:34:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:09] - Finalizando ciclo 183
+
+[2026/07/27 11:34:11] - Iniciando ciclo 184
+[2026/07/27 11:34:13] - testePhantomC184.dat capturado
+[2026/07/27 11:34:13][2026/07/27 11:34:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:14][2026/07/27 11:34:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:14] - Finalizando ciclo 184
+
+[2026/07/27 11:34:16] - Iniciando ciclo 185
+[2026/07/27 11:34:18] - testePhantomC185.dat capturado
+[2026/07/27 11:34:18][2026/07/27 11:34:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:19][2026/07/27 11:34:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:19] - Finalizando ciclo 185
+
+[2026/07/27 11:34:21] - Iniciando ciclo 186
+[2026/07/27 11:34:23] - testePhantomC186.dat capturado
+[2026/07/27 11:34:23][2026/07/27 11:34:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:24][2026/07/27 11:34:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:24] - Finalizando ciclo 186
+
+[2026/07/27 11:34:26] - Iniciando ciclo 187
+[2026/07/27 11:34:28] - testePhantomC187.dat capturado
+[2026/07/27 11:34:28][2026/07/27 11:34:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:29][2026/07/27 11:34:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:29] - Finalizando ciclo 187
+
+[2026/07/27 11:34:31] - Iniciando ciclo 188
+[2026/07/27 11:34:33] - testePhantomC188.dat capturado
+[2026/07/27 11:34:33][2026/07/27 11:34:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:34][2026/07/27 11:34:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:34] - Finalizando ciclo 188
+
+[2026/07/27 11:34:36] - Iniciando ciclo 189
+[2026/07/27 11:34:38] - testePhantomC189.dat capturado
+[2026/07/27 11:34:38][2026/07/27 11:34:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:39][2026/07/27 11:34:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:39] - Finalizando ciclo 189
+
+[2026/07/27 11:34:41] - Iniciando ciclo 190
+[2026/07/27 11:34:43] - testePhantomC190.dat capturado
+[2026/07/27 11:34:43][2026/07/27 11:34:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:44][2026/07/27 11:34:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:44] - Finalizando ciclo 190
+
+[2026/07/27 11:34:46] - Iniciando ciclo 191
+[2026/07/27 11:34:48] - testePhantomC191.dat capturado
+[2026/07/27 11:34:48][2026/07/27 11:34:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:49][2026/07/27 11:34:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:49] - Finalizando ciclo 191
+
+[2026/07/27 11:34:51] - Iniciando ciclo 192
+[2026/07/27 11:34:53] - testePhantomC192.dat capturado
+[2026/07/27 11:34:53][2026/07/27 11:34:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:54][2026/07/27 11:34:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:54] - Finalizando ciclo 192
+
+[2026/07/27 11:34:56] - Iniciando ciclo 193
+[2026/07/27 11:34:58] - testePhantomC193.dat capturado
+[2026/07/27 11:34:58][2026/07/27 11:34:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:34:59][2026/07/27 11:34:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:34:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:34:59] - Finalizando ciclo 193
+
+[2026/07/27 11:35:01] - Iniciando ciclo 194
+[2026/07/27 11:35:03] - testePhantomC194.dat capturado
+[2026/07/27 11:35:03][2026/07/27 11:35:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:04][2026/07/27 11:35:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:04] - Finalizando ciclo 194
+
+[2026/07/27 11:35:06] - Iniciando ciclo 195
+[2026/07/27 11:35:08] - testePhantomC195.dat capturado
+[2026/07/27 11:35:08][2026/07/27 11:35:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:09][2026/07/27 11:35:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:09] - Finalizando ciclo 195
+
+[2026/07/27 11:35:11] - Iniciando ciclo 196
+[2026/07/27 11:35:13] - testePhantomC196.dat capturado
+[2026/07/27 11:35:13][2026/07/27 11:35:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:14][2026/07/27 11:35:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:14] - Finalizando ciclo 196
+
+[2026/07/27 11:35:16] - Iniciando ciclo 197
+[2026/07/27 11:35:18] - testePhantomC197.dat capturado
+[2026/07/27 11:35:18][2026/07/27 11:35:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:19][2026/07/27 11:35:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:19] - Finalizando ciclo 197
+
+[2026/07/27 11:35:21] - Iniciando ciclo 198
+[2026/07/27 11:35:23] - testePhantomC198.dat capturado
+[2026/07/27 11:35:23][2026/07/27 11:35:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:24][2026/07/27 11:35:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:24] - Finalizando ciclo 198
+
+[2026/07/27 11:35:26] - Iniciando ciclo 199
+[2026/07/27 11:35:28] - testePhantomC199.dat capturado
+[2026/07/27 11:35:28][2026/07/27 11:35:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:29][2026/07/27 11:35:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:29] - Finalizando ciclo 199
+
+[2026/07/27 11:35:31] - Iniciando ciclo 200
+[2026/07/27 11:35:33] - testePhantomC200.dat capturado
+[2026/07/27 11:35:33][2026/07/27 11:35:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:34][2026/07/27 11:35:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:34] - Finalizando ciclo 200
+
+[2026/07/27 11:35:36] - Iniciando ciclo 201
+[2026/07/27 11:35:38] - testePhantomC201.dat capturado
+[2026/07/27 11:35:38][2026/07/27 11:35:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:39][2026/07/27 11:35:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:39] - Finalizando ciclo 201
+
+[2026/07/27 11:35:41] - Iniciando ciclo 202
+[2026/07/27 11:35:43] - testePhantomC202.dat capturado
+[2026/07/27 11:35:43][2026/07/27 11:35:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:44][2026/07/27 11:35:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:44] - Finalizando ciclo 202
+
+[2026/07/27 11:35:46] - Iniciando ciclo 203
+[2026/07/27 11:35:48] - testePhantomC203.dat capturado
+[2026/07/27 11:35:48][2026/07/27 11:35:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:49][2026/07/27 11:35:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:49] - Finalizando ciclo 203
+
+[2026/07/27 11:35:51] - Iniciando ciclo 204
+[2026/07/27 11:35:53] - testePhantomC204.dat capturado
+[2026/07/27 11:35:53][2026/07/27 11:35:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:54][2026/07/27 11:35:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:54] - Finalizando ciclo 204
+
+[2026/07/27 11:35:56] - Iniciando ciclo 205
+[2026/07/27 11:35:58] - testePhantomC205.dat capturado
+[2026/07/27 11:35:58][2026/07/27 11:35:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:35:59][2026/07/27 11:35:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:35:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:35:59] - Finalizando ciclo 205
+
+[2026/07/27 11:36:01] - Iniciando ciclo 206
+[2026/07/27 11:36:03] - testePhantomC206.dat capturado
+[2026/07/27 11:36:03][2026/07/27 11:36:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:04][2026/07/27 11:36:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:04] - Finalizando ciclo 206
+
+[2026/07/27 11:36:06] - Iniciando ciclo 207
+[2026/07/27 11:36:08] - testePhantomC207.dat capturado
+[2026/07/27 11:36:08][2026/07/27 11:36:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:09][2026/07/27 11:36:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:09] - Finalizando ciclo 207
+
+[2026/07/27 11:36:11] - Iniciando ciclo 208
+[2026/07/27 11:36:13] - testePhantomC208.dat capturado
+[2026/07/27 11:36:13][2026/07/27 11:36:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:14][2026/07/27 11:36:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:14] - Finalizando ciclo 208
+
+[2026/07/27 11:36:16] - Iniciando ciclo 209
+[2026/07/27 11:36:18] - testePhantomC209.dat capturado
+[2026/07/27 11:36:18][2026/07/27 11:36:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:19][2026/07/27 11:36:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:19] - Finalizando ciclo 209
+
+[2026/07/27 11:36:21] - Iniciando ciclo 210
+[2026/07/27 11:36:23] - testePhantomC210.dat capturado
+[2026/07/27 11:36:23][2026/07/27 11:36:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:24][2026/07/27 11:36:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:24] - Finalizando ciclo 210
+
+[2026/07/27 11:36:26] - Iniciando ciclo 211
+[2026/07/27 11:36:28] - testePhantomC211.dat capturado
+[2026/07/27 11:36:28][2026/07/27 11:36:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:29][2026/07/27 11:36:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:29] - Finalizando ciclo 211
+
+[2026/07/27 11:36:31] - Iniciando ciclo 212
+[2026/07/27 11:36:33] - testePhantomC212.dat capturado
+[2026/07/27 11:36:33][2026/07/27 11:36:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:34][2026/07/27 11:36:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:34] - Finalizando ciclo 212
+
+[2026/07/27 11:36:36] - Iniciando ciclo 213
+[2026/07/27 11:36:38] - testePhantomC213.dat capturado
+[2026/07/27 11:36:38][2026/07/27 11:36:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:39][2026/07/27 11:36:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:39] - Finalizando ciclo 213
+
+[2026/07/27 11:36:41] - Iniciando ciclo 214
+[2026/07/27 11:36:43] - testePhantomC214.dat capturado
+[2026/07/27 11:36:43][2026/07/27 11:36:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:44][2026/07/27 11:36:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:44] - Finalizando ciclo 214
+
+[2026/07/27 11:36:46] - Iniciando ciclo 215
+[2026/07/27 11:36:48] - testePhantomC215.dat capturado
+[2026/07/27 11:36:48][2026/07/27 11:36:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:49][2026/07/27 11:36:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:49] - Finalizando ciclo 215
+
+[2026/07/27 11:36:51] - Iniciando ciclo 216
+[2026/07/27 11:36:53] - testePhantomC216.dat capturado
+[2026/07/27 11:36:53][2026/07/27 11:36:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:54][2026/07/27 11:36:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:54] - Finalizando ciclo 216
+
+[2026/07/27 11:36:56] - Iniciando ciclo 217
+[2026/07/27 11:36:58] - testePhantomC217.dat capturado
+[2026/07/27 11:36:58][2026/07/27 11:36:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:36:59][2026/07/27 11:36:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:36:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:36:59] - Finalizando ciclo 217
+
+[2026/07/27 11:37:01] - Iniciando ciclo 218
+[2026/07/27 11:37:03] - testePhantomC218.dat capturado
+[2026/07/27 11:37:03][2026/07/27 11:37:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:04][2026/07/27 11:37:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:04] - Finalizando ciclo 218
+
+[2026/07/27 11:37:06] - Iniciando ciclo 219
+[2026/07/27 11:37:08] - testePhantomC219.dat capturado
+[2026/07/27 11:37:08][2026/07/27 11:37:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:09][2026/07/27 11:37:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:09] - Finalizando ciclo 219
+
+[2026/07/27 11:37:11] - Iniciando ciclo 220
+[2026/07/27 11:37:13] - testePhantomC220.dat capturado
+[2026/07/27 11:37:13][2026/07/27 11:37:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:14][2026/07/27 11:37:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:14] - Finalizando ciclo 220
+
+[2026/07/27 11:37:16] - Iniciando ciclo 221
+[2026/07/27 11:37:18] - testePhantomC221.dat capturado
+[2026/07/27 11:37:18][2026/07/27 11:37:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:19][2026/07/27 11:37:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:19] - Finalizando ciclo 221
+
+[2026/07/27 11:37:21] - Iniciando ciclo 222
+[2026/07/27 11:37:23] - testePhantomC222.dat capturado
+[2026/07/27 11:37:23][2026/07/27 11:37:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:24][2026/07/27 11:37:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:24] - Finalizando ciclo 222
+
+[2026/07/27 11:37:26] - Iniciando ciclo 223
+[2026/07/27 11:37:28] - testePhantomC223.dat capturado
+[2026/07/27 11:37:28][2026/07/27 11:37:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:29][2026/07/27 11:37:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:29] - Finalizando ciclo 223
+
+[2026/07/27 11:37:31] - Iniciando ciclo 224
+[2026/07/27 11:37:33] - testePhantomC224.dat capturado
+[2026/07/27 11:37:33][2026/07/27 11:37:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:34][2026/07/27 11:37:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:34] - Finalizando ciclo 224
+
+[2026/07/27 11:37:36] - Iniciando ciclo 225
+[2026/07/27 11:37:38] - testePhantomC225.dat capturado
+[2026/07/27 11:37:38][2026/07/27 11:37:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:39][2026/07/27 11:37:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:39] - Finalizando ciclo 225
+
+[2026/07/27 11:37:41] - Iniciando ciclo 226
+[2026/07/27 11:37:43] - testePhantomC226.dat capturado
+[2026/07/27 11:37:43][2026/07/27 11:37:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:44][2026/07/27 11:37:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:44] - Finalizando ciclo 226
+
+[2026/07/27 11:37:46] - Iniciando ciclo 227
+[2026/07/27 11:37:48] - testePhantomC227.dat capturado
+[2026/07/27 11:37:48][2026/07/27 11:37:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:49][2026/07/27 11:37:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:49] - Finalizando ciclo 227
+
+[2026/07/27 11:37:51] - Iniciando ciclo 228
+[2026/07/27 11:37:53] - testePhantomC228.dat capturado
+[2026/07/27 11:37:53][2026/07/27 11:37:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:54][2026/07/27 11:37:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:54] - Finalizando ciclo 228
+
+[2026/07/27 11:37:56] - Iniciando ciclo 229
+[2026/07/27 11:37:58] - testePhantomC229.dat capturado
+[2026/07/27 11:37:58][2026/07/27 11:37:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:37:59][2026/07/27 11:37:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:37:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:37:59] - Finalizando ciclo 229
+
+[2026/07/27 11:38:01] - Iniciando ciclo 230
+[2026/07/27 11:38:03] - testePhantomC230.dat capturado
+[2026/07/27 11:38:03][2026/07/27 11:38:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:04][2026/07/27 11:38:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:04] - Finalizando ciclo 230
+
+[2026/07/27 11:38:06] - Iniciando ciclo 231
+[2026/07/27 11:38:08] - testePhantomC231.dat capturado
+[2026/07/27 11:38:08][2026/07/27 11:38:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:09][2026/07/27 11:38:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:09] - Finalizando ciclo 231
+
+[2026/07/27 11:38:11] - Iniciando ciclo 232
+[2026/07/27 11:38:13] - testePhantomC232.dat capturado
+[2026/07/27 11:38:13][2026/07/27 11:38:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:14][2026/07/27 11:38:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:14] - Finalizando ciclo 232
+
+[2026/07/27 11:38:16] - Iniciando ciclo 233
+[2026/07/27 11:38:18] - testePhantomC233.dat capturado
+[2026/07/27 11:38:18][2026/07/27 11:38:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:19][2026/07/27 11:38:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:19] - Finalizando ciclo 233
+
+[2026/07/27 11:38:21] - Iniciando ciclo 234
+[2026/07/27 11:38:23] - testePhantomC234.dat capturado
+[2026/07/27 11:38:23][2026/07/27 11:38:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:24][2026/07/27 11:38:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:24] - Finalizando ciclo 234
+
+[2026/07/27 11:38:26] - Iniciando ciclo 235
+[2026/07/27 11:38:28] - testePhantomC235.dat capturado
+[2026/07/27 11:38:28][2026/07/27 11:38:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:29][2026/07/27 11:38:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:29] - Finalizando ciclo 235
+
+[2026/07/27 11:38:31] - Iniciando ciclo 236
+[2026/07/27 11:38:33] - testePhantomC236.dat capturado
+[2026/07/27 11:38:33][2026/07/27 11:38:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:34][2026/07/27 11:38:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:34] - Finalizando ciclo 236
+
+[2026/07/27 11:38:36] - Iniciando ciclo 237
+[2026/07/27 11:38:38] - testePhantomC237.dat capturado
+[2026/07/27 11:38:38][2026/07/27 11:38:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:39][2026/07/27 11:38:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:39] - Finalizando ciclo 237
+
+[2026/07/27 11:38:41] - Iniciando ciclo 238
+[2026/07/27 11:38:43] - testePhantomC238.dat capturado
+[2026/07/27 11:38:43][2026/07/27 11:38:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:44][2026/07/27 11:38:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:44] - Finalizando ciclo 238
+
+[2026/07/27 11:38:46] - Iniciando ciclo 239
+[2026/07/27 11:38:48] - testePhantomC239.dat capturado
+[2026/07/27 11:38:48][2026/07/27 11:38:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:49][2026/07/27 11:38:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:49] - Finalizando ciclo 239
+
+[2026/07/27 11:38:51] - Iniciando ciclo 240
+[2026/07/27 11:38:53] - testePhantomC240.dat capturado
+[2026/07/27 11:38:53][2026/07/27 11:38:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:54][2026/07/27 11:38:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:54] - Finalizando ciclo 240
+
+[2026/07/27 11:38:56] - Iniciando ciclo 241
+[2026/07/27 11:38:58] - testePhantomC241.dat capturado
+[2026/07/27 11:38:58][2026/07/27 11:38:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:38:59][2026/07/27 11:38:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:38:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:38:59] - Finalizando ciclo 241
+
+[2026/07/27 11:39:01] - Iniciando ciclo 242
+[2026/07/27 11:39:03] - testePhantomC242.dat capturado
+[2026/07/27 11:39:03][2026/07/27 11:39:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:04][2026/07/27 11:39:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:04] - Finalizando ciclo 242
+
+[2026/07/27 11:39:06] - Iniciando ciclo 243
+[2026/07/27 11:39:08] - testePhantomC243.dat capturado
+[2026/07/27 11:39:08][2026/07/27 11:39:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:09][2026/07/27 11:39:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:09] - Finalizando ciclo 243
+
+[2026/07/27 11:39:11] - Iniciando ciclo 244
+[2026/07/27 11:39:13] - testePhantomC244.dat capturado
+[2026/07/27 11:39:13][2026/07/27 11:39:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:14][2026/07/27 11:39:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:14] - Finalizando ciclo 244
+
+[2026/07/27 11:39:16] - Iniciando ciclo 245
+[2026/07/27 11:39:18] - testePhantomC245.dat capturado
+[2026/07/27 11:39:18][2026/07/27 11:39:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:19][2026/07/27 11:39:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:19] - Finalizando ciclo 245
+
+[2026/07/27 11:39:21] - Iniciando ciclo 246
+[2026/07/27 11:39:23] - testePhantomC246.dat capturado
+[2026/07/27 11:39:23][2026/07/27 11:39:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:24][2026/07/27 11:39:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:24] - Finalizando ciclo 246
+
+[2026/07/27 11:39:26] - Iniciando ciclo 247
+[2026/07/27 11:39:28] - testePhantomC247.dat capturado
+[2026/07/27 11:39:28][2026/07/27 11:39:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:29][2026/07/27 11:39:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:29] - Finalizando ciclo 247
+
+[2026/07/27 11:39:31] - Iniciando ciclo 248
+[2026/07/27 11:39:33] - testePhantomC248.dat capturado
+[2026/07/27 11:39:33][2026/07/27 11:39:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:34][2026/07/27 11:39:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:34] - Finalizando ciclo 248
+
+[2026/07/27 11:39:36] - Iniciando ciclo 249
+[2026/07/27 11:39:38] - testePhantomC249.dat capturado
+[2026/07/27 11:39:38][2026/07/27 11:39:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:39][2026/07/27 11:39:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:39] - Finalizando ciclo 249
+
+[2026/07/27 11:39:41] - Iniciando ciclo 250
+[2026/07/27 11:39:43] - testePhantomC250.dat capturado
+[2026/07/27 11:39:43][2026/07/27 11:39:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:44][2026/07/27 11:39:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:44] - Finalizando ciclo 250
+
+[2026/07/27 11:39:46] - Iniciando ciclo 251
+[2026/07/27 11:39:48] - testePhantomC251.dat capturado
+[2026/07/27 11:39:48][2026/07/27 11:39:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:49][2026/07/27 11:39:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:49] - Finalizando ciclo 251
+
+[2026/07/27 11:39:51] - Iniciando ciclo 252
+[2026/07/27 11:39:53] - testePhantomC252.dat capturado
+[2026/07/27 11:39:53][2026/07/27 11:39:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:54][2026/07/27 11:39:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:54] - Finalizando ciclo 252
+
+[2026/07/27 11:39:56] - Iniciando ciclo 253
+[2026/07/27 11:39:58] - testePhantomC253.dat capturado
+[2026/07/27 11:39:58][2026/07/27 11:39:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:39:59][2026/07/27 11:39:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:39:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:39:59] - Finalizando ciclo 253
+
+[2026/07/27 11:40:01] - Iniciando ciclo 254
+[2026/07/27 11:40:03] - testePhantomC254.dat capturado
+[2026/07/27 11:40:03][2026/07/27 11:40:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:04][2026/07/27 11:40:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:04] - Finalizando ciclo 254
+
+[2026/07/27 11:40:06] - Iniciando ciclo 255
+[2026/07/27 11:40:08] - testePhantomC255.dat capturado
+[2026/07/27 11:40:08][2026/07/27 11:40:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:09][2026/07/27 11:40:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:09] - Finalizando ciclo 255
+
+[2026/07/27 11:40:11] - Iniciando ciclo 256
+[2026/07/27 11:40:13] - testePhantomC256.dat capturado
+[2026/07/27 11:40:13][2026/07/27 11:40:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:14][2026/07/27 11:40:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:14] - Finalizando ciclo 256
+
+[2026/07/27 11:40:16] - Iniciando ciclo 257
+[2026/07/27 11:40:18] - testePhantomC257.dat capturado
+[2026/07/27 11:40:18][2026/07/27 11:40:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:19][2026/07/27 11:40:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:19] - Finalizando ciclo 257
+
+[2026/07/27 11:40:21] - Iniciando ciclo 258
+[2026/07/27 11:40:23] - testePhantomC258.dat capturado
+[2026/07/27 11:40:23][2026/07/27 11:40:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:24][2026/07/27 11:40:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:24] - Finalizando ciclo 258
+
+[2026/07/27 11:40:26] - Iniciando ciclo 259
+[2026/07/27 11:40:28] - testePhantomC259.dat capturado
+[2026/07/27 11:40:28][2026/07/27 11:40:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:29][2026/07/27 11:40:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:29] - Finalizando ciclo 259
+
+[2026/07/27 11:40:31] - Iniciando ciclo 260
+[2026/07/27 11:40:33] - testePhantomC260.dat capturado
+[2026/07/27 11:40:33][2026/07/27 11:40:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:34][2026/07/27 11:40:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:34] - Finalizando ciclo 260
+
+[2026/07/27 11:40:36] - Iniciando ciclo 261
+[2026/07/27 11:40:38] - testePhantomC261.dat capturado
+[2026/07/27 11:40:38][2026/07/27 11:40:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:39][2026/07/27 11:40:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:39] - Finalizando ciclo 261
+
+[2026/07/27 11:40:41] - Iniciando ciclo 262
+[2026/07/27 11:40:43] - testePhantomC262.dat capturado
+[2026/07/27 11:40:43][2026/07/27 11:40:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:44][2026/07/27 11:40:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:44] - Finalizando ciclo 262
+
+[2026/07/27 11:40:46] - Iniciando ciclo 263
+[2026/07/27 11:40:48] - testePhantomC263.dat capturado
+[2026/07/27 11:40:48][2026/07/27 11:40:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:49][2026/07/27 11:40:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:49] - Finalizando ciclo 263
+
+[2026/07/27 11:40:51] - Iniciando ciclo 264
+[2026/07/27 11:40:53] - testePhantomC264.dat capturado
+[2026/07/27 11:40:53][2026/07/27 11:40:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:54][2026/07/27 11:40:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:54] - Finalizando ciclo 264
+
+[2026/07/27 11:40:56] - Iniciando ciclo 265
+[2026/07/27 11:40:58] - testePhantomC265.dat capturado
+[2026/07/27 11:40:58][2026/07/27 11:40:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:40:59][2026/07/27 11:40:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:40:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:40:59] - Finalizando ciclo 265
+
+[2026/07/27 11:41:01] - Iniciando ciclo 266
+[2026/07/27 11:41:03] - testePhantomC266.dat capturado
+[2026/07/27 11:41:03][2026/07/27 11:41:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:04][2026/07/27 11:41:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:04] - Finalizando ciclo 266
+
+[2026/07/27 11:41:06] - Iniciando ciclo 267
+[2026/07/27 11:41:08] - testePhantomC267.dat capturado
+[2026/07/27 11:41:08][2026/07/27 11:41:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:09][2026/07/27 11:41:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:09] - Finalizando ciclo 267
+
+[2026/07/27 11:41:11] - Iniciando ciclo 268
+[2026/07/27 11:41:13] - testePhantomC268.dat capturado
+[2026/07/27 11:41:13][2026/07/27 11:41:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:14][2026/07/27 11:41:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:14] - Finalizando ciclo 268
+
+[2026/07/27 11:41:16] - Iniciando ciclo 269
+[2026/07/27 11:41:18] - testePhantomC269.dat capturado
+[2026/07/27 11:41:18][2026/07/27 11:41:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:19][2026/07/27 11:41:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:19] - Finalizando ciclo 269
+
+[2026/07/27 11:41:21] - Iniciando ciclo 270
+[2026/07/27 11:41:23] - testePhantomC270.dat capturado
+[2026/07/27 11:41:23][2026/07/27 11:41:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:24][2026/07/27 11:41:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:24] - Finalizando ciclo 270
+
+[2026/07/27 11:41:26] - Iniciando ciclo 271
+[2026/07/27 11:41:28] - testePhantomC271.dat capturado
+[2026/07/27 11:41:28][2026/07/27 11:41:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:29][2026/07/27 11:41:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:29] - Finalizando ciclo 271
+
+[2026/07/27 11:41:31] - Iniciando ciclo 272
+[2026/07/27 11:41:33] - testePhantomC272.dat capturado
+[2026/07/27 11:41:33][2026/07/27 11:41:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:34][2026/07/27 11:41:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:34] - Finalizando ciclo 272
+
+[2026/07/27 11:41:36] - Iniciando ciclo 273
+[2026/07/27 11:41:38] - testePhantomC273.dat capturado
+[2026/07/27 11:41:38][2026/07/27 11:41:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:39][2026/07/27 11:41:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:39] - Finalizando ciclo 273
+
+[2026/07/27 11:41:41] - Iniciando ciclo 274
+[2026/07/27 11:41:43] - testePhantomC274.dat capturado
+[2026/07/27 11:41:43][2026/07/27 11:41:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:44][2026/07/27 11:41:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:44] - Finalizando ciclo 274
+
+[2026/07/27 11:41:46] - Iniciando ciclo 275
+[2026/07/27 11:41:48] - testePhantomC275.dat capturado
+[2026/07/27 11:41:48][2026/07/27 11:41:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:49][2026/07/27 11:41:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:49] - Finalizando ciclo 275
+
+[2026/07/27 11:41:51] - Iniciando ciclo 276
+[2026/07/27 11:41:53] - testePhantomC276.dat capturado
+[2026/07/27 11:41:53][2026/07/27 11:41:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:54][2026/07/27 11:41:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:54] - Finalizando ciclo 276
+
+[2026/07/27 11:41:56] - Iniciando ciclo 277
+[2026/07/27 11:41:58] - testePhantomC277.dat capturado
+[2026/07/27 11:41:58][2026/07/27 11:41:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:41:59][2026/07/27 11:41:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:41:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:41:59] - Finalizando ciclo 277
+
+[2026/07/27 11:42:01] - Iniciando ciclo 278
+[2026/07/27 11:42:03] - testePhantomC278.dat capturado
+[2026/07/27 11:42:03][2026/07/27 11:42:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:04][2026/07/27 11:42:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:04] - Finalizando ciclo 278
+
+[2026/07/27 11:42:06] - Iniciando ciclo 279
+[2026/07/27 11:42:08] - testePhantomC279.dat capturado
+[2026/07/27 11:42:08][2026/07/27 11:42:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:09][2026/07/27 11:42:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:09] - Finalizando ciclo 279
+
+[2026/07/27 11:42:11] - Iniciando ciclo 280
+[2026/07/27 11:42:13] - testePhantomC280.dat capturado
+[2026/07/27 11:42:13][2026/07/27 11:42:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:14][2026/07/27 11:42:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:14] - Finalizando ciclo 280
+
+[2026/07/27 11:42:16] - Iniciando ciclo 281
+[2026/07/27 11:42:18] - testePhantomC281.dat capturado
+[2026/07/27 11:42:18][2026/07/27 11:42:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:19][2026/07/27 11:42:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:19] - Finalizando ciclo 281
+
+[2026/07/27 11:42:21] - Iniciando ciclo 282
+[2026/07/27 11:42:23] - testePhantomC282.dat capturado
+[2026/07/27 11:42:23][2026/07/27 11:42:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:24][2026/07/27 11:42:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:24] - Finalizando ciclo 282
+
+[2026/07/27 11:42:26] - Iniciando ciclo 283
+[2026/07/27 11:42:28] - testePhantomC283.dat capturado
+[2026/07/27 11:42:28][2026/07/27 11:42:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:29][2026/07/27 11:42:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:29] - Finalizando ciclo 283
+
+[2026/07/27 11:42:31] - Iniciando ciclo 284
+[2026/07/27 11:42:33] - testePhantomC284.dat capturado
+[2026/07/27 11:42:33][2026/07/27 11:42:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:34][2026/07/27 11:42:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:34] - Finalizando ciclo 284
+
+[2026/07/27 11:42:36] - Iniciando ciclo 285
+[2026/07/27 11:42:38] - testePhantomC285.dat capturado
+[2026/07/27 11:42:38][2026/07/27 11:42:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:39][2026/07/27 11:42:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:39] - Finalizando ciclo 285
+
+[2026/07/27 11:42:41] - Iniciando ciclo 286
+[2026/07/27 11:42:43] - testePhantomC286.dat capturado
+[2026/07/27 11:42:43][2026/07/27 11:42:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:44][2026/07/27 11:42:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:44] - Finalizando ciclo 286
+
+[2026/07/27 11:42:46] - Iniciando ciclo 287
+[2026/07/27 11:42:48] - testePhantomC287.dat capturado
+[2026/07/27 11:42:48][2026/07/27 11:42:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:49][2026/07/27 11:42:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:49] - Finalizando ciclo 287
+
+[2026/07/27 11:42:51] - Iniciando ciclo 288
+[2026/07/27 11:42:53] - testePhantomC288.dat capturado
+[2026/07/27 11:42:53][2026/07/27 11:42:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:54][2026/07/27 11:42:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:54] - Finalizando ciclo 288
+
+[2026/07/27 11:42:56] - Iniciando ciclo 289
+[2026/07/27 11:42:58] - testePhantomC289.dat capturado
+[2026/07/27 11:42:58][2026/07/27 11:42:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:42:59][2026/07/27 11:42:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:42:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:42:59] - Finalizando ciclo 289
+
+[2026/07/27 11:43:01] - Iniciando ciclo 290
+[2026/07/27 11:43:03] - testePhantomC290.dat capturado
+[2026/07/27 11:43:03][2026/07/27 11:43:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:04][2026/07/27 11:43:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:04] - Finalizando ciclo 290
+
+[2026/07/27 11:43:06] - Iniciando ciclo 291
+[2026/07/27 11:43:08] - testePhantomC291.dat capturado
+[2026/07/27 11:43:08][2026/07/27 11:43:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:09][2026/07/27 11:43:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:09] - Finalizando ciclo 291
+
+[2026/07/27 11:43:11] - Iniciando ciclo 292
+[2026/07/27 11:43:13] - testePhantomC292.dat capturado
+[2026/07/27 11:43:13][2026/07/27 11:43:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:14][2026/07/27 11:43:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:14] - Finalizando ciclo 292
+
+[2026/07/27 11:43:16] - Iniciando ciclo 293
+[2026/07/27 11:43:18] - testePhantomC293.dat capturado
+[2026/07/27 11:43:18][2026/07/27 11:43:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:19][2026/07/27 11:43:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:19] - Finalizando ciclo 293
+
+[2026/07/27 11:43:21] - Iniciando ciclo 294
+[2026/07/27 11:43:23] - testePhantomC294.dat capturado
+[2026/07/27 11:43:23][2026/07/27 11:43:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:24][2026/07/27 11:43:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:24] - Finalizando ciclo 294
+
+[2026/07/27 11:43:26] - Iniciando ciclo 295
+[2026/07/27 11:43:28] - testePhantomC295.dat capturado
+[2026/07/27 11:43:28][2026/07/27 11:43:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:29][2026/07/27 11:43:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:29] - Finalizando ciclo 295
+
+[2026/07/27 11:43:31] - Iniciando ciclo 296
+[2026/07/27 11:43:33] - testePhantomC296.dat capturado
+[2026/07/27 11:43:33][2026/07/27 11:43:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:34][2026/07/27 11:43:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:34] - Finalizando ciclo 296
+
+[2026/07/27 11:43:36] - Iniciando ciclo 297
+[2026/07/27 11:43:38] - testePhantomC297.dat capturado
+[2026/07/27 11:43:38][2026/07/27 11:43:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:39][2026/07/27 11:43:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:39] - Finalizando ciclo 297
+
+[2026/07/27 11:43:41] - Iniciando ciclo 298
+[2026/07/27 11:43:43] - testePhantomC298.dat capturado
+[2026/07/27 11:43:43][2026/07/27 11:43:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:44][2026/07/27 11:43:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:44] - Finalizando ciclo 298
+
+[2026/07/27 11:43:46] - Iniciando ciclo 299
+[2026/07/27 11:43:48] - testePhantomC299.dat capturado
+[2026/07/27 11:43:48][2026/07/27 11:43:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:49][2026/07/27 11:43:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:49] - Finalizando ciclo 299
+
+[2026/07/27 11:43:51] - Iniciando ciclo 300
+[2026/07/27 11:43:53] - testePhantomC300.dat capturado
+[2026/07/27 11:43:53][2026/07/27 11:43:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:54][2026/07/27 11:43:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:54] - Finalizando ciclo 300
+
+[2026/07/27 11:43:56] - Iniciando ciclo 301
+[2026/07/27 11:43:58] - testePhantomC301.dat capturado
+[2026/07/27 11:43:58][2026/07/27 11:43:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:43:59][2026/07/27 11:43:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:43:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:43:59] - Finalizando ciclo 301
+
+[2026/07/27 11:44:01] - Iniciando ciclo 302
+[2026/07/27 11:44:03] - testePhantomC302.dat capturado
+[2026/07/27 11:44:03][2026/07/27 11:44:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:04][2026/07/27 11:44:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:04] - Finalizando ciclo 302
+
+[2026/07/27 11:44:06] - Iniciando ciclo 303
+[2026/07/27 11:44:08] - testePhantomC303.dat capturado
+[2026/07/27 11:44:08][2026/07/27 11:44:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:09][2026/07/27 11:44:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:09] - Finalizando ciclo 303
+
+[2026/07/27 11:44:11] - Iniciando ciclo 304
+[2026/07/27 11:44:13] - testePhantomC304.dat capturado
+[2026/07/27 11:44:13][2026/07/27 11:44:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:14][2026/07/27 11:44:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:14] - Finalizando ciclo 304
+
+[2026/07/27 11:44:16] - Iniciando ciclo 305
+[2026/07/27 11:44:18] - testePhantomC305.dat capturado
+[2026/07/27 11:44:18][2026/07/27 11:44:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:19][2026/07/27 11:44:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:19] - Finalizando ciclo 305
+
+[2026/07/27 11:44:21] - Iniciando ciclo 306
+[2026/07/27 11:44:23] - testePhantomC306.dat capturado
+[2026/07/27 11:44:23][2026/07/27 11:44:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:24][2026/07/27 11:44:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:24] - Finalizando ciclo 306
+
+[2026/07/27 11:44:26] - Iniciando ciclo 307
+[2026/07/27 11:44:28] - testePhantomC307.dat capturado
+[2026/07/27 11:44:28][2026/07/27 11:44:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:29][2026/07/27 11:44:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:29] - Finalizando ciclo 307
+
+[2026/07/27 11:44:31] - Iniciando ciclo 308
+[2026/07/27 11:44:33] - testePhantomC308.dat capturado
+[2026/07/27 11:44:33][2026/07/27 11:44:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:34][2026/07/27 11:44:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:34] - Finalizando ciclo 308
+
+[2026/07/27 11:44:36] - Iniciando ciclo 309
+[2026/07/27 11:44:38] - testePhantomC309.dat capturado
+[2026/07/27 11:44:38][2026/07/27 11:44:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:39][2026/07/27 11:44:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:39] - Finalizando ciclo 309
+
+[2026/07/27 11:44:41] - Iniciando ciclo 310
+[2026/07/27 11:44:43] - testePhantomC310.dat capturado
+[2026/07/27 11:44:43][2026/07/27 11:44:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:44][2026/07/27 11:44:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:44] - Finalizando ciclo 310
+
+[2026/07/27 11:44:46] - Iniciando ciclo 311
+[2026/07/27 11:44:48] - testePhantomC311.dat capturado
+[2026/07/27 11:44:48][2026/07/27 11:44:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:49][2026/07/27 11:44:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:49] - Finalizando ciclo 311
+
+[2026/07/27 11:44:51] - Iniciando ciclo 312
+[2026/07/27 11:44:53] - testePhantomC312.dat capturado
+[2026/07/27 11:44:53][2026/07/27 11:44:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:54][2026/07/27 11:44:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:54] - Finalizando ciclo 312
+
+[2026/07/27 11:44:56] - Iniciando ciclo 313
+[2026/07/27 11:44:58] - testePhantomC313.dat capturado
+[2026/07/27 11:44:58][2026/07/27 11:44:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:44:59][2026/07/27 11:44:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:44:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:44:59] - Finalizando ciclo 313
+
+[2026/07/27 11:45:01] - Iniciando ciclo 314
+[2026/07/27 11:45:03] - testePhantomC314.dat capturado
+[2026/07/27 11:45:03][2026/07/27 11:45:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:04][2026/07/27 11:45:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:04] - Finalizando ciclo 314
+
+[2026/07/27 11:45:06] - Iniciando ciclo 315
+[2026/07/27 11:45:08] - testePhantomC315.dat capturado
+[2026/07/27 11:45:08][2026/07/27 11:45:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:09][2026/07/27 11:45:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:09] - Finalizando ciclo 315
+
+[2026/07/27 11:45:11] - Iniciando ciclo 316
+[2026/07/27 11:45:13] - testePhantomC316.dat capturado
+[2026/07/27 11:45:13][2026/07/27 11:45:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:14][2026/07/27 11:45:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:14] - Finalizando ciclo 316
+
+[2026/07/27 11:45:16] - Iniciando ciclo 317
+[2026/07/27 11:45:18] - testePhantomC317.dat capturado
+[2026/07/27 11:45:18][2026/07/27 11:45:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:19][2026/07/27 11:45:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:19] - Finalizando ciclo 317
+
+[2026/07/27 11:45:21] - Iniciando ciclo 318
+[2026/07/27 11:45:23] - testePhantomC318.dat capturado
+[2026/07/27 11:45:23][2026/07/27 11:45:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:24][2026/07/27 11:45:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:24] - Finalizando ciclo 318
+
+[2026/07/27 11:45:26] - Iniciando ciclo 319
+[2026/07/27 11:45:28] - testePhantomC319.dat capturado
+[2026/07/27 11:45:28][2026/07/27 11:45:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:29][2026/07/27 11:45:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:29] - Finalizando ciclo 319
+
+[2026/07/27 11:45:31] - Iniciando ciclo 320
+[2026/07/27 11:45:33] - testePhantomC320.dat capturado
+[2026/07/27 11:45:33][2026/07/27 11:45:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:34][2026/07/27 11:45:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:34] - Finalizando ciclo 320
+
+[2026/07/27 11:45:36] - Iniciando ciclo 321
+[2026/07/27 11:45:38] - testePhantomC321.dat capturado
+[2026/07/27 11:45:38][2026/07/27 11:45:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:39][2026/07/27 11:45:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:39] - Finalizando ciclo 321
+
+[2026/07/27 11:45:41] - Iniciando ciclo 322
+[2026/07/27 11:45:43] - testePhantomC322.dat capturado
+[2026/07/27 11:45:43][2026/07/27 11:45:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:44][2026/07/27 11:45:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:44] - Finalizando ciclo 322
+
+[2026/07/27 11:45:46] - Iniciando ciclo 323
+[2026/07/27 11:45:48] - testePhantomC323.dat capturado
+[2026/07/27 11:45:48][2026/07/27 11:45:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:49][2026/07/27 11:45:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:49] - Finalizando ciclo 323
+
+[2026/07/27 11:45:51] - Iniciando ciclo 324
+[2026/07/27 11:45:53] - testePhantomC324.dat capturado
+[2026/07/27 11:45:53][2026/07/27 11:45:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:54][2026/07/27 11:45:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:54] - Finalizando ciclo 324
+
+[2026/07/27 11:45:56] - Iniciando ciclo 325
+[2026/07/27 11:45:58] - testePhantomC325.dat capturado
+[2026/07/27 11:45:58][2026/07/27 11:45:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:45:59][2026/07/27 11:45:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:45:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:45:59] - Finalizando ciclo 325
+
+[2026/07/27 11:46:01] - Iniciando ciclo 326
+[2026/07/27 11:46:03] - testePhantomC326.dat capturado
+[2026/07/27 11:46:03][2026/07/27 11:46:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:04][2026/07/27 11:46:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:04] - Finalizando ciclo 326
+
+[2026/07/27 11:46:06] - Iniciando ciclo 327
+[2026/07/27 11:46:08] - testePhantomC327.dat capturado
+[2026/07/27 11:46:08][2026/07/27 11:46:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:09][2026/07/27 11:46:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:09] - Finalizando ciclo 327
+
+[2026/07/27 11:46:11] - Iniciando ciclo 328
+[2026/07/27 11:46:13] - testePhantomC328.dat capturado
+[2026/07/27 11:46:13][2026/07/27 11:46:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:14][2026/07/27 11:46:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:14] - Finalizando ciclo 328
+
+[2026/07/27 11:46:16] - Iniciando ciclo 329
+[2026/07/27 11:46:18] - testePhantomC329.dat capturado
+[2026/07/27 11:46:18][2026/07/27 11:46:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:19][2026/07/27 11:46:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:19] - Finalizando ciclo 329
+
+[2026/07/27 11:46:21] - Iniciando ciclo 330
+[2026/07/27 11:46:23] - testePhantomC330.dat capturado
+[2026/07/27 11:46:23][2026/07/27 11:46:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:24][2026/07/27 11:46:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:24] - Finalizando ciclo 330
+
+[2026/07/27 11:46:26] - Iniciando ciclo 331
+[2026/07/27 11:46:28] - testePhantomC331.dat capturado
+[2026/07/27 11:46:28][2026/07/27 11:46:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:29][2026/07/27 11:46:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:29] - Finalizando ciclo 331
+
+[2026/07/27 11:46:31] - Iniciando ciclo 332
+[2026/07/27 11:46:33] - testePhantomC332.dat capturado
+[2026/07/27 11:46:33][2026/07/27 11:46:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:34][2026/07/27 11:46:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:34] - Finalizando ciclo 332
+
+[2026/07/27 11:46:36] - Iniciando ciclo 333
+[2026/07/27 11:46:38] - testePhantomC333.dat capturado
+[2026/07/27 11:46:38][2026/07/27 11:46:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:39][2026/07/27 11:46:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:39] - Finalizando ciclo 333
+
+[2026/07/27 11:46:41] - Iniciando ciclo 334
+[2026/07/27 11:46:43] - testePhantomC334.dat capturado
+[2026/07/27 11:46:43][2026/07/27 11:46:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:44][2026/07/27 11:46:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:44] - Finalizando ciclo 334
+
+[2026/07/27 11:46:46] - Iniciando ciclo 335
+[2026/07/27 11:46:48] - testePhantomC335.dat capturado
+[2026/07/27 11:46:48][2026/07/27 11:46:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:49][2026/07/27 11:46:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:49] - Finalizando ciclo 335
+
+[2026/07/27 11:46:51] - Iniciando ciclo 336
+[2026/07/27 11:46:53] - testePhantomC336.dat capturado
+[2026/07/27 11:46:53][2026/07/27 11:46:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:54][2026/07/27 11:46:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:54] - Finalizando ciclo 336
+
+[2026/07/27 11:46:56] - Iniciando ciclo 337
+[2026/07/27 11:46:58] - testePhantomC337.dat capturado
+[2026/07/27 11:46:58][2026/07/27 11:46:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:46:58][2026/07/27 11:46:58] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:46:58]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:46:58] - Finalizando ciclo 337
+
+[2026/07/27 11:47:01] - Iniciando ciclo 338
+[2026/07/27 11:47:03] - testePhantomC338.dat capturado
+[2026/07/27 11:47:03][2026/07/27 11:47:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:04][2026/07/27 11:47:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:04] - Finalizando ciclo 338
+
+[2026/07/27 11:47:06] - Iniciando ciclo 339
+[2026/07/27 11:47:08] - testePhantomC339.dat capturado
+[2026/07/27 11:47:08][2026/07/27 11:47:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:09][2026/07/27 11:47:09] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:09]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:09] - Finalizando ciclo 339
+
+[2026/07/27 11:47:11] - Iniciando ciclo 340
+[2026/07/27 11:47:13] - testePhantomC340.dat capturado
+[2026/07/27 11:47:13][2026/07/27 11:47:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:14][2026/07/27 11:47:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:14] - Finalizando ciclo 340
+
+[2026/07/27 11:47:16] - Iniciando ciclo 341
+[2026/07/27 11:47:18] - testePhantomC341.dat capturado
+[2026/07/27 11:47:18][2026/07/27 11:47:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:19][2026/07/27 11:47:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:19] - Finalizando ciclo 341
+
+[2026/07/27 11:47:21] - Iniciando ciclo 342
+[2026/07/27 11:47:23] - testePhantomC342.dat capturado
+[2026/07/27 11:47:23][2026/07/27 11:47:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:24][2026/07/27 11:47:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:24] - Finalizando ciclo 342
+
+[2026/07/27 11:47:26] - Iniciando ciclo 343
+[2026/07/27 11:47:28] - testePhantomC343.dat capturado
+[2026/07/27 11:47:28][2026/07/27 11:47:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:29][2026/07/27 11:47:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:29] - Finalizando ciclo 343
+
+[2026/07/27 11:47:31] - Iniciando ciclo 344
+[2026/07/27 11:47:33] - testePhantomC344.dat capturado
+[2026/07/27 11:47:33][2026/07/27 11:47:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:34][2026/07/27 11:47:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:34] - Finalizando ciclo 344
+
+[2026/07/27 11:47:36] - Iniciando ciclo 345
+[2026/07/27 11:47:38] - testePhantomC345.dat capturado
+[2026/07/27 11:47:38][2026/07/27 11:47:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:38][2026/07/27 11:47:38] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:38]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:38] - Finalizando ciclo 345
+
+[2026/07/27 11:47:41] - Iniciando ciclo 346
+[2026/07/27 11:47:43] - testePhantomC346.dat capturado
+[2026/07/27 11:47:43][2026/07/27 11:47:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:44][2026/07/27 11:47:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:44] - Finalizando ciclo 346
+
+[2026/07/27 11:47:46] - Iniciando ciclo 347
+[2026/07/27 11:47:48] - testePhantomC347.dat capturado
+[2026/07/27 11:47:48][2026/07/27 11:47:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:49][2026/07/27 11:47:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:49] - Finalizando ciclo 347
+
+[2026/07/27 11:47:51] - Iniciando ciclo 348
+[2026/07/27 11:47:53] - testePhantomC348.dat capturado
+[2026/07/27 11:47:53][2026/07/27 11:47:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:54][2026/07/27 11:47:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:54] - Finalizando ciclo 348
+
+[2026/07/27 11:47:56] - Iniciando ciclo 349
+[2026/07/27 11:47:58] - testePhantomC349.dat capturado
+[2026/07/27 11:47:58][2026/07/27 11:47:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:47:59][2026/07/27 11:47:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:47:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:47:59] - Finalizando ciclo 349
+
+[2026/07/27 11:48:01] - Iniciando ciclo 350
+[2026/07/27 11:48:03] - testePhantomC350.dat capturado
+[2026/07/27 11:48:03][2026/07/27 11:48:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:04][2026/07/27 11:48:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:04] - Finalizando ciclo 350
+
+[2026/07/27 11:48:06] - Iniciando ciclo 351
+[2026/07/27 11:48:08] - testePhantomC351.dat capturado
+[2026/07/27 11:48:08][2026/07/27 11:48:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:08][2026/07/27 11:48:08] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:08]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:08] - Finalizando ciclo 351
+
+[2026/07/27 11:48:11] - Iniciando ciclo 352
+[2026/07/27 11:48:13] - testePhantomC352.dat capturado
+[2026/07/27 11:48:13][2026/07/27 11:48:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:14][2026/07/27 11:48:14] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:14]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:14] - Finalizando ciclo 352
+
+[2026/07/27 11:48:16] - Iniciando ciclo 353
+[2026/07/27 11:48:18] - testePhantomC353.dat capturado
+[2026/07/27 11:48:18][2026/07/27 11:48:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:19][2026/07/27 11:48:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:19] - Finalizando ciclo 353
+
+[2026/07/27 11:48:21] - Iniciando ciclo 354
+[2026/07/27 11:48:23] - testePhantomC354.dat capturado
+[2026/07/27 11:48:23][2026/07/27 11:48:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:24][2026/07/27 11:48:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:24] - Finalizando ciclo 354
+
+[2026/07/27 11:48:26] - Iniciando ciclo 355
+[2026/07/27 11:48:28] - testePhantomC355.dat capturado
+[2026/07/27 11:48:28][2026/07/27 11:48:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:29][2026/07/27 11:48:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:29] - Finalizando ciclo 355
+
+[2026/07/27 11:48:31] - Iniciando ciclo 356
+[2026/07/27 11:48:33] - testePhantomC356.dat capturado
+[2026/07/27 11:48:33][2026/07/27 11:48:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:33][2026/07/27 11:48:33] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:33]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:33] - Finalizando ciclo 356
+
+[2026/07/27 11:48:36] - Iniciando ciclo 357
+[2026/07/27 11:48:38] - testePhantomC357.dat capturado
+[2026/07/27 11:48:38][2026/07/27 11:48:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:38][2026/07/27 11:48:38] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:38]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:38] - Finalizando ciclo 357
+
+[2026/07/27 11:48:41] - Iniciando ciclo 358
+[2026/07/27 11:48:43] - testePhantomC358.dat capturado
+[2026/07/27 11:48:43][2026/07/27 11:48:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:44][2026/07/27 11:48:44] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:44]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:44] - Finalizando ciclo 358
+
+[2026/07/27 11:48:46] - Iniciando ciclo 359
+[2026/07/27 11:48:48] - testePhantomC359.dat capturado
+[2026/07/27 11:48:48][2026/07/27 11:48:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:49][2026/07/27 11:48:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:49] - Finalizando ciclo 359
+
+[2026/07/27 11:48:51] - Iniciando ciclo 360
+[2026/07/27 11:48:53] - testePhantomC360.dat capturado
+[2026/07/27 11:48:53][2026/07/27 11:48:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:54][2026/07/27 11:48:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:54] - Finalizando ciclo 360
+
+[2026/07/27 11:48:56] - Iniciando ciclo 361
+[2026/07/27 11:48:58] - testePhantomC361.dat capturado
+[2026/07/27 11:48:58][2026/07/27 11:48:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:48:59][2026/07/27 11:48:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:48:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:48:59] - Finalizando ciclo 361
+
+[2026/07/27 11:49:01] - Iniciando ciclo 362
+[2026/07/27 11:49:03] - testePhantomC362.dat capturado
+[2026/07/27 11:49:03][2026/07/27 11:49:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:04][2026/07/27 11:49:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:04] - Finalizando ciclo 362
+
+[2026/07/27 11:49:06] - Iniciando ciclo 363
+[2026/07/27 11:49:08] - testePhantomC363.dat capturado
+[2026/07/27 11:49:08][2026/07/27 11:49:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:08][2026/07/27 11:49:08] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:08]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:08] - Finalizando ciclo 363
+
+[2026/07/27 11:49:11] - Iniciando ciclo 364
+[2026/07/27 11:49:13] - testePhantomC364.dat capturado
+[2026/07/27 11:49:13][2026/07/27 11:49:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:13][2026/07/27 11:49:13] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:13]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:13] - Finalizando ciclo 364
+
+[2026/07/27 11:49:16] - Iniciando ciclo 365
+[2026/07/27 11:49:18] - testePhantomC365.dat capturado
+[2026/07/27 11:49:18][2026/07/27 11:49:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:19][2026/07/27 11:49:19] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:19]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:19] - Finalizando ciclo 365
+
+[2026/07/27 11:49:21] - Iniciando ciclo 366
+[2026/07/27 11:49:23] - testePhantomC366.dat capturado
+[2026/07/27 11:49:23][2026/07/27 11:49:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:24][2026/07/27 11:49:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:24] - Finalizando ciclo 366
+
+[2026/07/27 11:49:26] - Iniciando ciclo 367
+[2026/07/27 11:49:28] - testePhantomC367.dat capturado
+[2026/07/27 11:49:28][2026/07/27 11:49:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:29][2026/07/27 11:49:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:29] - Finalizando ciclo 367
+
+[2026/07/27 11:49:31] - Iniciando ciclo 368
+[2026/07/27 11:49:33] - testePhantomC368.dat capturado
+[2026/07/27 11:49:33][2026/07/27 11:49:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:34][2026/07/27 11:49:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:34] - Finalizando ciclo 368
+
+[2026/07/27 11:49:36] - Iniciando ciclo 369
+[2026/07/27 11:49:38] - testePhantomC369.dat capturado
+[2026/07/27 11:49:38][2026/07/27 11:49:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:39][2026/07/27 11:49:39] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:39]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:39] - Finalizando ciclo 369
+
+[2026/07/27 11:49:41] - Iniciando ciclo 370
+[2026/07/27 11:49:43] - testePhantomC370.dat capturado
+[2026/07/27 11:49:43][2026/07/27 11:49:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:43][2026/07/27 11:49:43] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:43]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:43] - Finalizando ciclo 370
+
+[2026/07/27 11:49:46] - Iniciando ciclo 371
+[2026/07/27 11:49:48] - testePhantomC371.dat capturado
+[2026/07/27 11:49:48][2026/07/27 11:49:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:48][2026/07/27 11:49:48] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:48]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:48] - Finalizando ciclo 371
+
+[2026/07/27 11:49:51] - Iniciando ciclo 372
+[2026/07/27 11:49:53] - testePhantomC372.dat capturado
+[2026/07/27 11:49:53][2026/07/27 11:49:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:54][2026/07/27 11:49:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:54] - Finalizando ciclo 372
+
+[2026/07/27 11:49:56] - Iniciando ciclo 373
+[2026/07/27 11:49:58] - testePhantomC373.dat capturado
+[2026/07/27 11:49:58][2026/07/27 11:49:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:49:59][2026/07/27 11:49:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:49:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:49:59] - Finalizando ciclo 373
+
+[2026/07/27 11:50:01] - Iniciando ciclo 374
+[2026/07/27 11:50:03] - testePhantomC374.dat capturado
+[2026/07/27 11:50:03][2026/07/27 11:50:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:04][2026/07/27 11:50:04] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:04]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:04] - Finalizando ciclo 374
+
+[2026/07/27 11:50:06] - Iniciando ciclo 375
+[2026/07/27 11:50:08] - testePhantomC375.dat capturado
+[2026/07/27 11:50:08][2026/07/27 11:50:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:08][2026/07/27 11:50:08] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:08]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:08] - Finalizando ciclo 375
+
+[2026/07/27 11:50:11] - Iniciando ciclo 376
+[2026/07/27 11:50:13] - testePhantomC376.dat capturado
+[2026/07/27 11:50:13][2026/07/27 11:50:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:13][2026/07/27 11:50:13] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:13]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:13] - Finalizando ciclo 376
+
+[2026/07/27 11:50:16] - Iniciando ciclo 377
+[2026/07/27 11:50:18] - testePhantomC377.dat capturado
+[2026/07/27 11:50:18][2026/07/27 11:50:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:18][2026/07/27 11:50:18] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:18]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:18] - Finalizando ciclo 377
+
+[2026/07/27 11:50:21] - Iniciando ciclo 378
+[2026/07/27 11:50:23] - testePhantomC378.dat capturado
+[2026/07/27 11:50:23][2026/07/27 11:50:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:24][2026/07/27 11:50:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:24] - Finalizando ciclo 378
+
+[2026/07/27 11:50:26] - Iniciando ciclo 379
+[2026/07/27 11:50:28] - testePhantomC379.dat capturado
+[2026/07/27 11:50:28][2026/07/27 11:50:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:29][2026/07/27 11:50:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:29] - Finalizando ciclo 379
+
+[2026/07/27 11:50:31] - Iniciando ciclo 380
+[2026/07/27 11:50:33] - testePhantomC380.dat capturado
+[2026/07/27 11:50:33][2026/07/27 11:50:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:34][2026/07/27 11:50:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:34] - Finalizando ciclo 380
+
+[2026/07/27 11:50:36] - Iniciando ciclo 381
+[2026/07/27 11:50:38] - testePhantomC381.dat capturado
+[2026/07/27 11:50:38][2026/07/27 11:50:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:38][2026/07/27 11:50:38] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:38]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:38] - Finalizando ciclo 381
+
+[2026/07/27 11:50:41] - Iniciando ciclo 382
+[2026/07/27 11:50:43] - testePhantomC382.dat capturado
+[2026/07/27 11:50:43][2026/07/27 11:50:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:43][2026/07/27 11:50:43] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:43]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:43] - Finalizando ciclo 382
+
+[2026/07/27 11:50:46] - Iniciando ciclo 383
+[2026/07/27 11:50:48] - testePhantomC383.dat capturado
+[2026/07/27 11:50:48][2026/07/27 11:50:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:49][2026/07/27 11:50:49] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:49]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:49] - Finalizando ciclo 383
+
+[2026/07/27 11:50:51] - Iniciando ciclo 384
+[2026/07/27 11:50:53] - testePhantomC384.dat capturado
+[2026/07/27 11:50:53][2026/07/27 11:50:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:54][2026/07/27 11:50:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:54] - Finalizando ciclo 384
+
+[2026/07/27 11:50:56] - Iniciando ciclo 385
+[2026/07/27 11:50:58] - testePhantomC385.dat capturado
+[2026/07/27 11:50:58][2026/07/27 11:50:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:50:59][2026/07/27 11:50:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:50:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:50:59] - Finalizando ciclo 385
+
+[2026/07/27 11:51:01] - Iniciando ciclo 386
+[2026/07/27 11:51:03] - testePhantomC386.dat capturado
+[2026/07/27 11:51:03][2026/07/27 11:51:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:03][2026/07/27 11:51:03] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:03]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:03] - Finalizando ciclo 386
+
+[2026/07/27 11:51:06] - Iniciando ciclo 387
+[2026/07/27 11:51:08] - testePhantomC387.dat capturado
+[2026/07/27 11:51:08][2026/07/27 11:51:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:08][2026/07/27 11:51:08] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:08]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:08] - Finalizando ciclo 387
+
+[2026/07/27 11:51:11] - Iniciando ciclo 388
+[2026/07/27 11:51:13] - testePhantomC388.dat capturado
+[2026/07/27 11:51:13][2026/07/27 11:51:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:13][2026/07/27 11:51:13] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:13]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:13] - Finalizando ciclo 388
+
+[2026/07/27 11:51:16] - Iniciando ciclo 389
+[2026/07/27 11:51:18] - testePhantomC389.dat capturado
+[2026/07/27 11:51:18][2026/07/27 11:51:18] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:18][2026/07/27 11:51:18] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:18]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:18] - Finalizando ciclo 389
+
+[2026/07/27 11:51:20] - Iniciando ciclo 390
+[2026/07/27 11:51:23] - testePhantomC390.dat capturado
+[2026/07/27 11:51:23][2026/07/27 11:51:23] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:24][2026/07/27 11:51:24] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:24]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:24] - Finalizando ciclo 390
+
+[2026/07/27 11:51:26] - Iniciando ciclo 391
+[2026/07/27 11:51:28] - testePhantomC391.dat capturado
+[2026/07/27 11:51:28][2026/07/27 11:51:28] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:29][2026/07/27 11:51:29] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:29]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:29] - Finalizando ciclo 391
+
+[2026/07/27 11:51:31] - Iniciando ciclo 392
+[2026/07/27 11:51:33] - testePhantomC392.dat capturado
+[2026/07/27 11:51:33][2026/07/27 11:51:33] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:34][2026/07/27 11:51:34] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:34]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:34] - Finalizando ciclo 392
+
+[2026/07/27 11:51:36] - Iniciando ciclo 393
+[2026/07/27 11:51:38] - testePhantomC393.dat capturado
+[2026/07/27 11:51:38][2026/07/27 11:51:38] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:38][2026/07/27 11:51:38] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:38]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:38] - Finalizando ciclo 393
+
+[2026/07/27 11:51:41] - Iniciando ciclo 394
+[2026/07/27 11:51:43] - testePhantomC394.dat capturado
+[2026/07/27 11:51:43][2026/07/27 11:51:43] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:43][2026/07/27 11:51:43] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:43]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:43] - Finalizando ciclo 394
+
+[2026/07/27 11:51:46] - Iniciando ciclo 395
+[2026/07/27 11:51:48] - testePhantomC395.dat capturado
+[2026/07/27 11:51:48][2026/07/27 11:51:48] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:48][2026/07/27 11:51:48] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:48]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:48] - Finalizando ciclo 395
+
+[2026/07/27 11:51:50] - Iniciando ciclo 396
+[2026/07/27 11:51:53] - testePhantomC396.dat capturado
+[2026/07/27 11:51:53][2026/07/27 11:51:53] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:54][2026/07/27 11:51:54] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:54]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:54] - Finalizando ciclo 396
+
+[2026/07/27 11:51:56] - Iniciando ciclo 397
+[2026/07/27 11:51:58] - testePhantomC397.dat capturado
+[2026/07/27 11:51:58][2026/07/27 11:51:58] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:51:59][2026/07/27 11:51:59] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:51:59]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:51:59] - Finalizando ciclo 397
+
+[2026/07/27 11:52:01] - Iniciando ciclo 398
+[2026/07/27 11:52:03] - testePhantomC398.dat capturado
+[2026/07/27 11:52:03][2026/07/27 11:52:03] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:52:03][2026/07/27 11:52:03] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:52:03]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:52:03] - Finalizando ciclo 398
+
+[2026/07/27 11:52:06] - Iniciando ciclo 399
+[2026/07/27 11:52:08] - testePhantomC399.dat capturado
+[2026/07/27 11:52:08][2026/07/27 11:52:08] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:52:08][2026/07/27 11:52:08] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:52:08]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:52:08] - Finalizando ciclo 399
+
+[2026/07/27 11:52:11] - Iniciando ciclo 400
+[2026/07/27 11:52:13] - testePhantomC400.dat capturado
+[2026/07/27 11:52:13][2026/07/27 11:52:13] - Enviando comando '1' ao arduino 
+
+[2026/07/27 11:52:13][2026/07/27 11:52:13] - Enviando comando '0.900000' ao arduino 
+
+[2026/07/27 11:52:13]Rotacionando a amostra em 0.9 graus
+[2026/07/27 11:52:13] - Finalizando ciclo 400
+
+[2026/07/27 11:52:16] - Finalizando operacao testePhantomC.dat 
+

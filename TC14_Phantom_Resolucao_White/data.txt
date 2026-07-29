@@ -1,0 +1,11 @@
+odd=66mm
+sod=520mm
+
+V = 50Kv
+I = 79.8 microA
+
+T = 1s
+
+400 prjs
+
+0.9 graus
